@@ -1,0 +1,85 @@
+/* Customer Earning Block Styles */
+
+.nector-customer-earning-content-container {
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.nector-customer-earning-info-icon {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 0.85em;
+  width: 0.85em;
+  font-size: 100%;
+  padding: 0.2em;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+}
+
+.nector-customer-earning-tooltip {
+  position: relative;
+}
+
+.nector-customer-earning-tooltip:before {
+  content: attr(data-text);
+  /* here's the magic */
+  position: absolute;
+
+  /* move to right */
+  bottom: 100%;
+  margin-bottom: 5px;
+  /* and add a small left margin */
+
+  /* basic styles */
+  width: 200px;
+  padding: 10px;
+  border-radius: 4px;
+  background: #fff;
+  border: 1px solid #ccc;
+  color: #333;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.4s;
+}
+
+.nector-customer-earning-tooltip:hover:before {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Customer Redeem Block Styles */
+
+.nector-customer-redeem-container {
+  display: inline-block;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 12px 12px;
+}
+
+.nector-customer-redeem-header-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-right: 25px;
+}
+
+.nector-customer-redeem-content-container {
+  font-size: 0.9em;
+  margin-top: 20px;
+
+  display: flex;
+  gap: 25px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nector-customer-redeem-action-btn {
+  text-decoration: underline;
+}

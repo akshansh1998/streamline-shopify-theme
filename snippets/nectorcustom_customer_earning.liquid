@@ -1,0 +1,60 @@
+{{ 'nectorcustom_styles.css' | asset_url | stylesheet_tag }}
+
+{% assign nector_signin_url = shop.domain | prepend: 'https://' | append: '/account/login' %}
+{% assign nector_signup_url = shop.domain | prepend: 'https://' | append: '/account/register' %}
+
+{% assign nector_coin_name = coin_name | default: 'coins' %}
+{% assign nector_coin_per_unit_amount = coin_per_unit_amount | default: 0 %}
+{% assign nector_minimum_coin_amount = minimum_coin_amount %}
+{% assign nector_fiat_amount_for_minimum_coin_amount = fiat_amount_for_minimum_coin_amount %}
+{% assign nector_background_color = background_color | default: '#eee' %}
+{% assign nector_text_color = text_color | default: '#000' %}
+{% assign nector_link_color = link_text_color | default: '#000' %}
+{% assign nector_font_size = font_size | default: '14px' %}
+{% assign nector_text_align = text_align | default: 'start' %}
+
+{% if product.selected_or_first_available_variant and product.selected_or_first_available_variant.price %}
+  {% assign nector_current_product_price = product.selected_or_first_available_variant.price
+    | default: 0
+    | divided_by: 100
+  %}
+{% else %}
+  {% assign nector_current_product_price = product.price | default: 0 | divided_by: 100 %}
+{% endif %}
+
+{% assign nector_coin_amount_customer_earns = nector_current_product_price
+  | times: nector_coin_per_unit_amount
+  | floor
+%}
+{% assign nector_fiat_amount_customer_earns = nector_coin_amount_customer_earns
+  | divided_by: nector_minimum_coin_amount
+  | floor
+  | times: nector_fiat_amount_for_minimum_coin_amount
+%}
+
+<div class="nector-customer-earning-container" style="text-align: {{ nector_text_align }};">
+  <div
+    class="nector-customer-earning-content-container"
+    style="background-color: {{ nector_background_color }}; color: {{ nector_text_color }}; font-size: {{ nector_font_size }};"
+  >
+    <span class="nector-customer-earning-content">
+      Earn {{ nector_coin_amount_customer_earns }}
+      {{ nector_coin_name }} with this purchase.
+
+      <span
+        class="nector-customer-earning-info-icon nector-customer-earning-tooltip"
+        data-text="These coins can be redeemed for {{ cart.currency.symbol }}{{ nector_fiat_amount_customer_earns }} discount on a future order."
+      >
+        i
+      </span>
+
+      {% if customer == null or customer == empty or customer.id == null or customer.id == empty %}
+        (<a href="{{ nector_signin_url }}" style="color: {{ nector_link_color }};">Login</a>/<a
+          href="{{ nector_signup_url }}"
+          style="color: {{ nector_link_color }};"
+          >Signup</a
+        >)
+      {% endif %}
+    </span>
+  </div>
+</div>

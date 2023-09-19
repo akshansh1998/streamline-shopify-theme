@@ -1,0 +1,18 @@
+
+<script>
+        (function () {
+            var url = 'https://webview.quickreply.ai/whatsapp/optin-form/script.min.js';
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = url;
+            if (window.qrOptInForm) return;
+            window.qrOptInForm = true;
+            var options = {"type":"WELCOME","images":{"logo":"https://d361nn0tbycf2u.cloudfront.net/company/kThFuMycmFE3L7pNw_c/opt-in/SFywZSFnvBdCGTukP_oi/1688651237018.jpg","side":"https://d361nn0tbycf2u.cloudfront.net/company/kThFuMycmFE3L7pNw_c/opt-in/SFywZSFnvBdCGTukP_oi/1688651195256.jpg"},"text":{"preHead":"Subscribe and Get","head":"10% OFF","postHead":"on your order","submitBtn":"Get discount code","closeBtn":"Close"},"style":{"modal":{},"modalContent":{"backgroundColor":"#ffffff"},"text":{"fontFamily":"Roboto","color":"#000000"},"submitBtn":{"backgroundColor":"#1A69B2","color":"#FFFFFF"},"closeBtn":{"backgroundColor":"#FFFFFF","color":"#1A69B2"},"crossBtn":{"color":"#000"},"disclaimer":{"color":"#686868"}},"settings":{"disclaimer":{"type":"IMPLICIT","html":"<p>I agree to receive automated marketing messages at the phone number provided.</p>","isEnable":true},"urls":{"type":"EXCLUDE","arr":[]},"frequency":{"gap":300,"count":100,"type":"until_count"},"delay":10,"optinId":"SFywZSFnvBdCGTukP_oi"},"installedAt":1688651263954};
+            s.onload = function () {
+                ShowOptInForm(options);
+            };
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+    </script>

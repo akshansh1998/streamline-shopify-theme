@@ -1,0 +1,58 @@
+{% assign nector_api_key = shop.metafields.nector.api_key %}
+{% assign nector_entity_id = shop.metafields.nector.entity_id %}
+{% assign nector_env = shop.metafields.nector.env %}
+{% assign nector_is_featured_reviews = is_featured_reviews | default: false %}
+{% assign nector_is_row_review_list = is_row_review_list | default: false %}
+{% assign nector_platform_url = 'https://platform.nector.io' %}
+{% assign nector_websdk_url = 'https://websdk.nector.io' %}
+{% assign nector_script_url = 'https://cdn.nector.io/nector-static/no-cache/reward-widget/mainloader.min.js' %}
+
+{% if customer %}
+  {% assign nector_customer_id = customer.id %}
+{% endif %}
+
+{% if product and product != empty and product != blank %}
+  {% assign nector_product_id = product.id %}
+{% endif %}
+
+{% if nector_env != 'production' %}
+  {% assign nector_platform_url = 'https://stageplatform.nector.io' %}
+  {% assign nector_websdk_url = 'https://stagewebsdk.nector.io' %}
+  {% assign nector_script_url = 'https://cdn.nector.io/nector-static/no-cache/stagereward-widget/mainloader.min.js' %}
+{% endif %}
+
+{% if nector_product_id and nector_is_featured_reviews == false %}
+  <script
+    async
+    src="{{nector_script_url}}"
+    data-op="review_list"
+    data-platform_url="{{nector_platform_url}}"
+    data-websdk_url="{{nector_websdk_url}}"
+    data-api_key="{{nector_api_key}}"
+    data-entity_id="{{nector_entity_id}}"
+    data-product_id="{{nector_product_id}}"
+    data-platform="shopify"
+  ></script>
+{% elsif nector_is_row_review_list == true %}
+  <script
+    async
+    src="{{nector_script_url}}"
+    data-op="row_review_list"
+    data-platform_url="{{nector_platform_url}}"
+    data-websdk_url="{{nector_websdk_url}}"
+    data-api_key="{{nector_api_key}}"
+    data-entity_id="{{nector_entity_id}}"
+    data-platform="shopify"
+  ></script>
+{% elsif nector_is_featured_reviews == true %}
+  <script
+    async
+    src="{{nector_script_url}}"
+    data-op="featured_review_list"
+    data-platform_url="{{nector_platform_url}}"
+    data-websdk_url="{{nector_websdk_url}}"
+    data-api_key="{{nector_api_key}}"
+    data-entity_id="{{nector_entity_id}}"
+    data-platform="shopify"
+  ></script>
+{% endif %}
