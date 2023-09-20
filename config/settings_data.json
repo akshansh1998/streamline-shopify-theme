@@ -1,1 +1,2813 @@
-{"current":{"color_body_bg":"#ffffff","color_body_text":"#000000","color_button":"#432344","color_button_text":"#ffffff","color_sale_price":"#000000","color_sale_tag":"#ffba00","color_cart_dot":"#ffba00","color_cart_dot_text":"#ffffff","color_alt_bg":"#f9f9f9","color_alt_text":"#000000","color_announcement":"#ffba00","color_announcement_text":"#ffffff","color_newsletter":"#ffffff","color_newsletter_text":"#000000","color_drawer_background":"#432344","color_drawer_text":"#ffffff","color_image_text":"#ffffff","color_image_overlay":"#000000","color_image_overlay_opacity":10,"color_image_overlay_text_shadow":20,"color_small_image_bg":"#ffffff","color_large_image_bg":"#000000","type_header_font_family":"roboto_condensed_i7","type_header_capitalize":true,"type_header_spacing":-25,"type_header_base_size":46,"type_header_line_height":1,"type_base_font_family":"roboto_condensed_n4","type_product_capitalize":false,"type_base_spacing":25,"type_base_size":18,"type_base_line_height":1.6,"button_type_style":"caps","button_style":"round","type_navigation_size":20,"animate_images":true,"logo_loader_image":"shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_47446f7d-de09-4a0d-8675-45b8c2b8a6ca.png","desktop_loader_width":100,"mobile_loader_width":100,"product_hover_details":false,"product_hover_image":true,"product_image_scatter":false,"product_grid_image_size":"square","product_save_amount":true,"product_save_type":"dollar","additional_content_style":"tab","enable_product_reviews":true,"enable_product_reviews_collection":false,"quick_shop_enable":false,"quick_shop_style":"product","cart_type":"sticky","cart_icon":"bag","cart_additional_buttons":false,"cart_notes_enable":false,"social_instagram_link":"https:\/\/www.instagram.com\/kibi_sports\/","social_facebook_link":"https:\/\/www.facebook.com\/kibisports","social_twitter_link":"https:\/\/twitter.com\/KibiSports","social_pinterest_link":"","social_linkedin_link":"https:\/\/www.linkedin.com\/company\/kibi-sports\/","social_youtube_link":"https:\/\/www.youtube.com\/c\/KIBISPORTS","favicon":"shopify:\/\/shop_images\/Untitled-2_164b83b4-48fe-4ad6-9462-b696d86c8abd.jpg","search_type":"product","checkout_logo_image":"shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_c7df13e3-fe20-4a0c-b803-4a3469568e39.png","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"Helvetica Neue","checkout_body_font":"Helvetica Neue","checkout_accent_color":"#111111","checkout_button_color":"#111111","checkout_error_color":"#ff6d6d","animate_page_transition_style":"page-logo","checkout_banner_background_color":"#ffffff","checkout_call_to_action_color":"#a26b25","checkout_use_header_image":false,"product_video_style":"muted","reviews_layout":"full","sections":{"header":{"type":"header","custom_css":[".site-header {padding: 0px 0; font-weight: 500;}"],"settings":{"header_style":"bar","main_menu_alignment":"right","sticky_index":false,"sticky_collection":false,"header_search_enable":true,"logo":"shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_c7df13e3-fe20-4a0c-b803-4a3469568e39.png","logo-inverted":"shopify:\/\/shop_images\/Kibi_Logo_White_Transparent_1.png","desktop_logo_width":110,"mobile_logo_width":50,"logo_hide_mobile":true,"main_menu_link_list":"main-menu","show_announcement":false,"show_announcement_home_only":false,"announcement_text":"Free shipping all over India","announcement_link":"shopify:\/\/collections"}},"footer":{"type":"footer","custom_css":[],"settings":{"show_newsletter":true,"newsletter_title":"Join the club","newsletter_richtext":"<p>Get latest offers & products updates along with trending sports news in your mailbox.<\/p>","show_locale_selector":true,"show_currency_selector":true,"show_currency_flags":true,"show_social_icons":true,"menu":"footer","show_payment_icons":true,"show_copyright":true,"copyright_text":""}},"collection-template":{"type":"collection-template","settings":{"per_row_desktop":4,"per_row_mobile":"1","description_bottom":false}},"product-template":{"type":"product-template","settings":{"product_image_size":"small","product_image_type":"stacked","product_zoom_enable":true,"enable_video_looping":true,"product_video_style":"muted","enable_payment_button":true,"product_shipping_callout":"","variant_type":"button","variant_labels_enable":true,"sku_enable":false,"inventory_enable":false,"inventory_threshold":10,"inventory_transfers_enable":false,"quantity_enable":false,"surface_pickup_enable":false,"social_enable":true}},"article-template":{"type":"article-template","settings":{"blog_show_image":true,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":false,"social_sharing_blog":true}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","post_limit":9,"blog_show_tag_filter":true,"blog_show_rss":false,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":true,"blog_show_excerpt":true,"blog_image_size":"square"}},"product-sections":{"type":"product-sections","blocks":{"product-text-columns":{"type":"text-columns","settings":{"title":"Why choose us?","align_text":"center","alt":true,"enable_image_1":true,"image_1":"shopify:\/\/shop_images\/shipped.png","image_width_1":80,"title_1":"","text_1":"<p>Free Shipping Across India<\/p>","button_label_1":"","button_link_1":"","enable_image_2":true,"image_2":"shopify:\/\/shop_images\/24-hours.png","image_width_2":80,"title_2":"","text_2":"<p>24\/7 Support<\/p>","button_label_2":"","button_link_2":"","enable_image_3":true,"image_3":"shopify:\/\/shop_images\/security.png","image_width_3":80,"title_3":"","text_3":"<p>Secure Payment System<\/p>","button_label_3":"","button_link_3":""}},"product-text-and-image":{"type":"text-and-image","disabled":true,"settings":{"image_width":700,"subtitle":"","title":"Image with text","text":"<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>","button_label":"","button_link":"","button_style":"primary","layout":"right","alt":false}},"product-background-image-text":{"type":"background-image-text","disabled":true,"settings":{"subtitle":"","title":"Large image with text box","text":"<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>","button_label":"","button_link":"","desktop_size":0,"image_alignment":"center center","color_border":"#f4f4f4","layout":"right"}},"13be62fc-96fa-4252-a5bb-b1f6a2bd909b":{"type":"testimonials","disabled":true,"settings":{"title":"Reviews","align_text":"center","round_images":false,"alt":false,"testimonial_1":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author_1":"Author's name","testimonial_2":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author_2":"Author's name"}}},"block_order":["product-text-columns","product-text-and-image","product-background-image-text","13be62fc-96fa-4252-a5bb-b1f6a2bd909b"],"settings":{}},"page-sections-template":{"type":"page-sections-template","blocks":{"1559681273277":{"type":"image-hero","settings":{"title_size":80,"text_align":"vertical-center horizontal-center"}},"1558643031646":{"type":"text-and-image","settings":{"image_width":450,"button_style":"primary","layout":"right"}},"1558643392013":{"type":"map","settings":{}},"1558643431127":{"type":"collection-slider","settings":{"per_row":"large"}},"1558643225272":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":60,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-center horizontal-center","section_height":"750px","mobile_height":"100vh"}}},"block_order":["1559681273277","1558643031646","1558643392013","1558643431127","1558643225272"],"settings":{"page_title_enable":false,"page_content_enable":true}},"newsletter-popup":{"type":"newsletter-popup","settings":{"mode":"disabled","popup_seconds":5,"popup_days":30,"popup_title":"Sign up and save","popup_text":"<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>","enable_newsletter":true,"button_label":"","button_link":""}},"1543003878234":{"type":"featured-collections","blocks":{"2bd1e5ef-477b-426d-a4a1-8c16755d26ee":{"type":"collection","settings":{"collection":"adidas","focal_point":"center center"}},"2770ae7a-9497-47f4-a5d4-9bd761080bf7":{"type":"collection","settings":{"collection":"adventure-worx","focal_point":"center center"}},"a4ed22a3-89a8-4970-96da-fc9337a1da0c":{"type":"collection","settings":{"collection":"cosco","image":"shopify:\/\/shop_images\/cos_1d9ef1c5-2993-4e5f-b3b3-891da60c554c.jpg","focal_point":"center center"}},"1543003878234-3":{"type":"collection","settings":{"collection":"krosfit","focal_point":"center center"}},"85a1dbcc-4075-4d73-87cd-db85ac033b4e":{"type":"collection","settings":{"collection":"life-speed","focal_point":"center center"}},"a4b6b462-44fc-4d02-b878-cb2c23d988e3":{"type":"collection","settings":{"collection":"nivia","image":"shopify:\/\/shop_images\/niivia.jpg","focal_point":"center center"}},"398e94eb-8688-4732-ac75-cab254f706a1":{"type":"collection","settings":{"collection":"nike","image":"shopify:\/\/shop_images\/nike.jpg","focal_point":"center center"}},"5db5db7a-bd3e-49e6-90cc-3d48820515a4":{"type":"collection","settings":{"collection":"omtex","focal_point":"center center"}},"5e19b7f0-eeb6-4222-9f94-e350ed646e76":{"type":"collection","settings":{"collection":"puma","focal_point":"center center"}},"8cf4f0e6-b7cc-42f4-98f5-b3409c56f533":{"type":"collection","settings":{"collection":"quechua","focal_point":"center center"}},"3f29fafd-f203-4686-a398-2dc9616d616a":{"type":"collection","settings":{"collection":"reebok","focal_point":"center center"}},"1aad99d8-8656-4c4d-8669-712d2a64d878":{"type":"collection","settings":{"collection":"stag","focal_point":"center center"}},"1543003878234-0":{"type":"collection","settings":{"collection":"skechers","focal_point":"center center"}},"79979b67-e4f7-4778-9b48-2cbe3c808378":{"type":"collection","settings":{"collection":"vaux-cycles","focal_point":"center center"}},"c076afba-1d45-4330-a21c-6c9158834687":{"type":"collection","settings":{"collection":"badminton","focal_point":"center center"}}},"block_order":["2bd1e5ef-477b-426d-a4a1-8c16755d26ee","2770ae7a-9497-47f4-a5d4-9bd761080bf7","a4ed22a3-89a8-4970-96da-fc9337a1da0c","1543003878234-3","85a1dbcc-4075-4d73-87cd-db85ac033b4e","a4b6b462-44fc-4d02-b878-cb2c23d988e3","398e94eb-8688-4732-ac75-cab254f706a1","5db5db7a-bd3e-49e6-90cc-3d48820515a4","5e19b7f0-eeb6-4222-9f94-e350ed646e76","8cf4f0e6-b7cc-42f4-98f5-b3409c56f533","3f29fafd-f203-4686-a398-2dc9616d616a","1aad99d8-8656-4c4d-8669-712d2a64d878","1543003878234-0","79979b67-e4f7-4778-9b48-2cbe3c808378","c076afba-1d45-4330-a21c-6c9158834687"],"disabled":true,"settings":{"title":"Brands","alt":true}},"list-collections-template":{"type":"list-collections-template","blocks":{"260a3fd2-8a1d-4497-b2ee-a56ab4159cb6":{"type":"collection","settings":{"collection":"men"}},"c818d814-319e-4d62-a519-f9513fc3b2f1":{"type":"collection","settings":{"collection":"women"}},"620f7ae2-9de0-4a31-9247-0499cd1f5e18":{"type":"collection","settings":{"collection":"nutrition"}},"7e7b868f-e8a0-4f0a-bab2-a5e7c3682d00":{"type":"collection","settings":{"collection":"cricket"}},"b77f27a8-b10e-4375-a802-b2230ae22e6c":{"type":"collection","settings":{"collection":"badminton-1"}},"2561c312-20e8-4b20-aca7-d3281cc58dbc":{"type":"collection","settings":{"collection":"squash"}},"4b70c768-8a5a-4866-98de-2415e5745416":{"type":"collection","settings":{"collection":"tennis"}},"80fcc8b3-e247-4b7e-989c-7e5fac907afe":{"type":"collection","settings":{"collection":"table-tennis"}},"029104db-eb5e-486a-885b-506e86eaf939":{"type":"collection","settings":{"collection":"basketball"}},"2efaad7c-fe2c-4052-b1a5-10938106887e":{"type":"collection","settings":{"collection":"handball"}},"cf869f81-660c-4c2d-a08d-4ae94effd2be":{"type":"collection","settings":{"collection":"volleyball"}},"94c8315c-9caf-4f53-844a-deb095a5b98c":{"type":"collection","settings":{"collection":"football"}},"a9bd15b0-6182-4ee3-9d34-39291d7278ef":{"type":"collection","settings":{"collection":"skating"}},"5ec7a5cc-fd00-449a-8b5b-ecf2c959521a":{"type":"collection","settings":{"collection":"swimming"}},"16986116-ca1e-46d5-8414-80c893d7aa7c":{"type":"collection","settings":{"collection":"gym"}},"fd7e4cdd-b98d-4b1c-8c13-67b545135d63":{"type":"collection","settings":{"collection":"gym-accessories"}},"80fed5c7-2bb9-4825-bbe9-465cedc7acbf":{"type":"collection","settings":{"collection":"backpack"}},"ddbd5eb3-1761-40c7-a32a-377a7a6b94c5":{"type":"collection","settings":{"collection":"sunglasses"}},"fedcd8c8-4d6d-4f52-b91f-13917bcee8fa":{"type":"collection","settings":{"collection":"sports-equipment"}}},"block_order":["260a3fd2-8a1d-4497-b2ee-a56ab4159cb6","c818d814-319e-4d62-a519-f9513fc3b2f1","620f7ae2-9de0-4a31-9247-0499cd1f5e18","7e7b868f-e8a0-4f0a-bab2-a5e7c3682d00","b77f27a8-b10e-4375-a802-b2230ae22e6c","2561c312-20e8-4b20-aca7-d3281cc58dbc","4b70c768-8a5a-4866-98de-2415e5745416","80fcc8b3-e247-4b7e-989c-7e5fac907afe","029104db-eb5e-486a-885b-506e86eaf939","2efaad7c-fe2c-4052-b1a5-10938106887e","cf869f81-660c-4c2d-a08d-4ae94effd2be","94c8315c-9caf-4f53-844a-deb095a5b98c","a9bd15b0-6182-4ee3-9d34-39291d7278ef","5ec7a5cc-fd00-449a-8b5b-ecf2c959521a","16986116-ca1e-46d5-8414-80c893d7aa7c","fd7e4cdd-b98d-4b1c-8c13-67b545135d63","80fed5c7-2bb9-4825-bbe9-465cedc7acbf","ddbd5eb3-1761-40c7-a32a-377a7a6b94c5","fedcd8c8-4d6d-4f52-b91f-13917bcee8fa"],"settings":{"title_enable":false,"display_type":"selected","sort":"alphabetical"}},"1559096311192":{"type":"hero-animated","blocks":{"1559097202495":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Dart-16by9.jpg","focal_point":"center center"}},"1559096311192-0":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/fitsum-admasu-oGv9xIl7DkY-unsplash_1.jpg","image_mobile":"shopify:\/\/shop_images\/fitsum-admasu-oGv9xIl7DkY-unsplash_1.jpg","focal_point":"50% 10%"}},"21788082-77ed-453d-ba88-de967614039a":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Group_297.png","image_mobile":"shopify:\/\/shop_images\/Group_297.png","focal_point":"20% 90%"}}},"block_order":["1559097202495","1559096311192-0","21788082-77ed-453d-ba88-de967614039a"],"settings":{"style":"gif","title":"","title_size":80,"subheading":"","link":"https:\/\/shop.kibi.co.in\/search?type=product&q=darts","link_text":"View Products","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","desktop_size":-20,"mobile_size":20}},"1559098181700":{"type":"slideshow","blocks":{"1559098181700-0":{"type":"image","settings":{"title":"Get In. Get Fit. \nGet on with Life!","title_size":68,"subheading":"","link":"shopify:\/\/collections\/gym","link_text":"View Products","color_accent":"#000000","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/ambitious-creative-co-rick-barrett-_MNnA-qojT4-unsplash_1_1.png","focal_point":"50% 90%"}},"7e1db207-b965-4d7e-bc90-d86cbd9be991":{"type":"image","settings":{"title":"Get the best Deals \nOn the best Whey","title_size":80,"subheading":"The Best Quality Whey By The Super Whey Available Now","link":"shopify:\/\/collections\/the-super-whey","link_text":"View Products","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/1350x850.png","focal_point":"center center"}}},"block_order":["1559098181700-0","7e1db207-b965-4d7e-bc90-d86cbd9be991"],"custom_css":["#Slideshow-1559098181700 {margin-top: 0px; margin-bottom: 0px;}"],"settings":{"style":"arrows","desktop_size":-20,"mobile_size":40,"autoplay":false,"autoplay_speed":7}},"1559321610782":{"type":"hero-video","disabled":true,"settings":{"title":"Khelega India \nBadhega India","title_size":78,"subheading":"For all your sporting needs","link_text":"Shop Now","link":"shopify:\/\/collections","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","video_url":"https:\/\/www.youtube.com\/watch?v=ZlfKYEG-eXk","section_height":"100vh","mobile_height":"auto"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"product_recommendations_heading":"You may also like","per_row":"small"}},"1559585995085":{"type":"featured-collection-slider","settings":{"title":"Featured collection","description":"","home_featured_products":"featured","per_row":"medium","alt":false}},"1559586187853":{"type":"marquee","custom_css":[".marquee--1559586187853 .marquee__text {font-size: 20px; animation-duration: 10s;"],"settings":{"text":"A2 Sports • Adidas • Adventure worx • Alfa • Alcis •  Alpino • Asics • Baller • Athletik • Bazooka Belco • BDM • Cosco • Cobra • Fadmen • FZ FORZA","link":"","text_size":36,"text_spacing":true,"color_scheme":"button","direction":"left","speed":"slow"}},"1559687247066":{"type":"text-and-image","custom_css":[".index-section {margin: 0px 0; padding: 20px;}"],"settings":{"image":"shopify:\/\/shop_images\/balls_banner.jpg","image_width":700,"subtitle":"AT lowest price","title":"GET  all Sporty balls","text":"","button_label":"View Products","button_link":"shopify:\/\/collections\/football","button_style":"secondary","layout":"right","alt":false}},"social":{"type":"social","blocks":{"f952847d-7bb9-48e9-9e1c-c0c9292464a4":{"type":"post","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/homegymclassic_1024x1024_2x_90ced84a-1cb7-47c6-bf09-6c359b1f5ea6.jpg","link":"https:\/\/www.instagram.com\/p\/CSJSc4np9Gx\/","product":"a2-acme-english-willow-cricket-bat-cricket-kibi-sports","account":"sac","caption":"csac","likes":"102"}}},"block_order":["f952847d-7bb9-48e9-9e1c-c0c9292464a4"],"settings":{"enable_home":false,"enable_product":false,"enable_collection":false,"title":"On social","description":"<p>Send us yours <a href=\"https:\/\/instagram.com\/youraccount\/\">@kibi_sports<\/a><\/p>"}},"1628105105b340f27c":{"type":"logo-list","blocks":{"a9a12639-7620-4a4b-a0d3-2a9d48bd91a9":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/image_4.png","link":"shopify:\/\/collections\/stag"}},"1628105105b340f27c-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/1603156673904.jpg","link":"shopify:\/\/collections\/life-speed"}},"1628105105b340f27c-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/cosco_india_ltd-500x500_170f27a7-6968-4740-80f6-7df65f24495b.jpg","link":"shopify:\/\/collections\/cosco"}},"1628105105b340f27c-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/a2-cricket-10240655-f07f7217.png","link":"shopify:\/\/collections\/a2-sports"}},"06147e08-be08-435d-a519-f961f71d72de":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/unnamed.png","link":""}},"2e5a9ad0-6aa9-45e7-900e-377425d0d7eb":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.58_PM.jpg","link":""}},"390d10bc-3510-4786-ab54-fab80def645d":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25_2.png","link":""}},"6f36f962-c320-4beb-85fe-2ea769452519":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26_1.png","link":""}},"e6595803-cf8d-452a-9672-637ac6234019":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25_1.png","link":""}},"75ee609d-79da-483f-ab6b-33d3275ce229":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.54_PM_1.jpg","link":""}}},"block_order":["a9a12639-7620-4a4b-a0d3-2a9d48bd91a9","1628105105b340f27c-1","1628105105b340f27c-0","1628105105b340f27c-3","06147e08-be08-435d-a519-f961f71d72de","2e5a9ad0-6aa9-45e7-900e-377425d0d7eb","390d10bc-3510-4786-ab54-fab80def645d","6f36f962-c320-4beb-85fe-2ea769452519","e6595803-cf8d-452a-9672-637ac6234019","75ee609d-79da-483f-ab6b-33d3275ce229"],"disabled":true,"settings":{"title":"","logo_opacity":100,"alt":false}},"collection-header":{"type":"collection-header","settings":{"collection_image_enable":false,"description_enable":false}},"collection-filters":{"type":"collection-filters","settings":{"filter_type":"groups","tags_combine":true,"collection_sort_enable":true}},"162815238940b4f047":{"type":"testimonials","blocks":{"162815238940b4f047-0":{"type":"testimonial","settings":{"testimonial":"<p><em>Excellent work by the guys at KIBI Sports ! Great service and attention to detail. Highly recommended!<\/em><\/p>","author":"Saurav Tomar, Lucknow"}},"162815238940b4f047-1":{"type":"testimonial","settings":{"testimonial":"<p><em>I Purchased two Racquets from them. Got proper guidance and all necessary information. Satisfied with the service and product quality.<\/em><\/p>","author":"Abbas Ali, Hyderabad"}},"42e0a182-d15a-41c0-b1d5-3e91c2d3758c":{"type":"testimonial","settings":{"testimonial":"<p><em>I ordered a whey protein in a unbelievable discount from KIBI Sports Store. Their service is incredible.<\/em><\/p>","author":"Gaurav Pandit, Kanpur"}}},"block_order":["162815238940b4f047-0","162815238940b4f047-1","42e0a182-d15a-41c0-b1d5-3e91c2d3758c"],"settings":{"title":"Testimonials","align_text":"center","round_images":false,"alt":false}},"162815310454f97824":{"type":"advanced-content","blocks":{"ba45fe36-1e2f-4d44-8664-087148f3e5b6":{"type":"html","settings":{"code":"<text align=\"center\">\n<h1>Contact US<\/h1><\/text>\n<p align=\"center\"> KIBI SPORTS PRIVATE LIMITED <br>\nSharda Launchpad, Sharda University, Knowledge Park 2, Greater Noida, UP - 201310<\/p>","width":"100%","alignment":"top-middle"}},"73bf2835-7dc1-42c6-b813-e185ed4b8f52":{"type":"html","settings":{"code":"<text align=\"center\">\n<p>\nTel: <a href=\"tel:+919064313197\">+91 9064313197<\/a>\n<\/p><\/text>","width":"50%","alignment":"center"}},"162815310454f97824-1":{"type":"html","settings":{"code":"<text align=\"center\">\n<p>Mail: <a href=\"mailto:support@kibi.co.in\">support@kibi.co.in<\/a><\/p><\/text>","width":"50%","alignment":"center"}}},"block_order":["ba45fe36-1e2f-4d44-8664-087148f3e5b6","73bf2835-7dc1-42c6-b813-e185ed4b8f52","162815310454f97824-1"],"custom_css":[".index-section--alt {margin: 0; padding: 40px 0;}"],"settings":{"full_width":false,"space_around":false,"alt":true}},"162817905914c598f3":{"type":"featured-collection","settings":{"title":"","description":"","home_featured_products":"nutrition","rows":2,"per_row_desktop":4,"per_row_mobile":"2","view_all":true,"alt":false}},"1628187679b19ef880":{"type":"hero-animated","blocks":{"1628187679b19ef880-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/young-arabian-muscular-basketball-player-action-motion-isolated-blackd_1_1.png","focal_point":"20% 10%"}}},"block_order":["1628187679b19ef880-0"],"settings":{"style":"fading","title":"Are you an athlete","title_size":55,"subheading":"Looking for brand sponsorship","link":"https:\/\/docs.google.com\/forms\/d\/1p7IQPhW-kK4X0QAHzCuQ9evhIuk8eP-78MNXhalRZyg\/viewform?edit_requested=true","link_text":"Apply here","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-left","desktop_size":-10,"mobile_size":20}},"page-contact-template":{"type":"page-contact-template","blocks":{"page-contact-template-0":{"type":"contact-form","settings":{"title":"Contact us","show_phone":false,"narrow_column":true}},"12ef979f-0961-466a-b3f0-755f5f647cd2":{"type":"custom-html","settings":{"full_width":false,"space_around":false,"alt":true,"code":"<text align=\"center\">\n<p><b> Office:<\/b><br>\n KIBI SPORTS PRIVATE LIMITED <br>\nShardha Launchpad, Shardha University, Knowledge Park 2, Greater Noida, UP - 201310<\/p>\n<p>\n<b>Tel:<\/b> <a href=\"tel:+917002552662\">+917002552662<\/a>\n<\/p>\n<p><b>Mail: <\/b><a href=\"mailto:support@kibi.co.in\">support@kibi.co.in<\/a><\/p><\/text>"}}},"block_order":["page-contact-template-0","12ef979f-0961-466a-b3f0-755f5f647cd2"],"settings":{"page_title_enable":false,"page_content_enable":false}},"slideshow":{"type":"slideshow","blocks":{"0aa083fd-332e-44c9-8cac-39324746420e":{"type":"image","settings":{"title":"SERVICES","title_size":88,"subheading":"Your satisfaction is our goal","link":"","link_text":"","color_accent":"#a67017","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/customer-support-staff-ready-for-work.jpg","image_mobile":"shopify:\/\/shop_images\/customer-support-staff-ready-for-work.jpg","focal_point":"center center"}}},"block_order":["0aa083fd-332e-44c9-8cac-39324746420e"],"settings":{"style":"minimal","desktop_size":-30,"mobile_size":-20,"autoplay":false,"autoplay_speed":7}},"services":{"type":"services","settings":{"image":"shopify:\/\/shop_images\/Custom_process.png","image_width":700,"subtitle":"You create we deliver","title":"Custom Team Wear","text":"<p><\/p><p>You can customize whatever suits the best for you (choice of fabric, collar & sleeve type, design & colors) and we will serve it for you at affordable rates <\/p><p><strong>Free shipping!!<\/strong><\/p>","button_label":"Call now","button_link":"tel:+917002552662","button_style":"primary","layout":"right","alt":false}},"servicesection1":{"type":"servicesection1","settings":{"image":"shopify:\/\/shop_images\/workout-fitness-center.jpg","image_width":500,"subtitle":"Better infrastructure","title":"sporting scapes","text":"<p>Looking for home gym, open gym, flooring, sports equipment, performance center and other sports facility set up?<\/p><p>Drop a mail with your requirement and we will get back to you with amazing deals!<\/p>","button_label":"mail us","button_link":"mailto:support@kibi.co.in","button_style":"primary","layout":"left","alt":false}},"servicesection2":{"type":"servicesection2","settings":{"image":"shopify:\/\/shop_images\/hockey-night-in-somewhere-cold.jpg","image_width":500,"subtitle":"Dare to fly","title":"Looking for brand sponsorship?","text":"<p>Are you a passionate athlete??<\/p><p>You are just one click away and we will help you to connect with brands  and other sponsorship opportunities<\/p>","button_label":"Apply now","button_link":"https:\/\/docs.google.com\/forms\/d\/1p7IQPhW-kK4X0QAHzCuQ9evhIuk8eP-78MNXhalRZyg\/viewform?edit_requested=true","button_style":"primary","layout":"right","alt":false}},"1631780139d2715a3a":{"type":"logo-list","blocks":{"1631780139d2715a3a-0":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.56_PM.jpg","link":""}},"1631780139d2715a3a-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/QYEQ9adJ_400x400_fb793b12-0b51-4684-9724-1b68de269ffc.jpg","link":""}},"1631780139d2715a3a-2":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.02_PM.jpg","link":""}},"1631780139d2715a3a-3":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.02_PM_1.jpg","link":""}},"8cc4c381-26b4-457a-b3ad-40af7993a16e":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.53_PM.jpg","link":""}},"45f7e7c4-a077-4b47-b468-76e751676166":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.00_PM_a2468c1d-29c5-4116-94bf-4b7653188d93.jpg","link":""}},"811289bf-51ed-40fc-a75d-ef74f2e1ad80":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.01_PM.jpg","link":""}}},"block_order":["1631780139d2715a3a-0","1631780139d2715a3a-1","1631780139d2715a3a-2","1631780139d2715a3a-3","8cc4c381-26b4-457a-b3ad-40af7993a16e","45f7e7c4-a077-4b47-b468-76e751676166","811289bf-51ed-40fc-a75d-ef74f2e1ad80"],"disabled":true,"settings":{"title":"","logo_opacity":76,"alt":false}},"1643562396261cc182":{"type":"logo-list","blocks":{"1643562396261cc182-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Frame_9.png","link":""}},"1643562396261cc182-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Frame_9-2.png","link":""}},"1643562396261cc182-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Frame_9-1.png","link":""}},"1643562396261cc182-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Frame_9_d05f9856-4911-4370-82a4-3988151a82bf.png","link":""}}},"block_order":["1643562396261cc182-0","1643562396261cc182-1","1643562396261cc182-2","1643562396261cc182-3"],"custom_css":[".index-section {margin: 40px 0;}"],"settings":{"title":"Recognized by","logo_opacity":100,"alt":false}},"16435624415d1fd406":{"type":"featured-content","disabled":true,"settings":{"title":"","text":"<p>Recognized by<\/p>","align_text":"center","narrow_column":false,"enlarge_text":true,"alt":false}},"1644948422babe2dd5":{"type":"hero-video","settings":{"title":"Fitga Agility Trainer","title_size":80,"subheading":"","link_text":"Shop Now","link":"shopify:\/\/products\/fitga-agility-trainer-kibi-sports","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","video_url":"https:\/\/www.youtube.com\/watch?v=lSXD3PXtQ6Y","section_height":"450px","mobile_height":"auto"}},"1647366819b58a7eba":{"type":"services","custom_css":[".index-section {padding: 20px;}"],"settings":{"image":"shopify:\/\/shop_images\/Group_297.png","image_width":700,"subtitle":"","title":"Sports Apparels","text":"","button_label":"View Products","button_link":"shopify:\/\/collections\/clothing","button_style":"secondary","layout":"right","alt":true}},"1647703716aa66b6b2":{"type":"hero-animated","blocks":{"1647703716aa66b6b2-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hokcey_banner.jpg","focal_point":"center center"}},"1647703716aa66b6b2-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Website_banner-protein-1280x600.jpg","focal_point":"center center"}},"339b8ff6-8657-4eb7-a73f-9a01e15380ac":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Website_banner-skating-1280x600.jpg","focal_point":"center center"}},"028445c8-9a1b-423b-b919-eb796316e239":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Website_banner-fitness-1280x600.jpg","focal_point":"center center"}},"569d3162-50b9-4b61-855f-6121990b2acf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Website_banner-swim-1280x600.jpg","focal_point":"center center"}},"7777efd8-1c0a-42b7-b2ad-4011f07b9349":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Website_banner-balls-1280x600.jpg","focal_point":"50% 90%"}}},"block_order":["1647703716aa66b6b2-0","1647703716aa66b6b2-1","339b8ff6-8657-4eb7-a73f-9a01e15380ac","028445c8-9a1b-423b-b919-eb796316e239","569d3162-50b9-4b61-855f-6121990b2acf","7777efd8-1c0a-42b7-b2ad-4011f07b9349"],"settings":{"style":"gif","title":"","title_size":55,"subheading":"","link":"shopify:\/\/collections","link_text":"View ALl","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","desktop_size":-20,"mobile_size":20}},"c96c6295-7844-4e58-85a5-e4fdbc40b7e2":{"type":"slideshow","blocks":{"4d0969be-a5ad-4470-b884-062a029e8ec4":{"type":"image","disabled":true,"settings":{"title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections\/cricket","link_text":"CRIcket products","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/banner.jpg","image_mobile":"shopify:\/\/shop_images\/bannere.jpg","focal_point":"center center"}},"d435a282-2d56-4632-b3e5-2b89a0f987d8":{"type":"image","settings":{"title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections","link_text":"products","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/Website_banner-ball2-1280x600.jpg","image_mobile":"shopify:\/\/shop_images\/Website_banner-ball2-1280x600.jpg","focal_point":"center center"}},"3f6c3407-33db-41cd-84c3-99c8d9c43bdc":{"type":"image","settings":{"title":"","title_size":69,"subheading":"","link":"","link_text":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/Website_banner-travel-1280x600.jpg","focal_point":"center center"}},"6ce08b30-74bb-481f-b600-a4e2355eab70":{"type":"image","settings":{"title":"","title_size":80,"subheading":"","link":"","link_text":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/Website_banner-badminton-1280x600.jpg","focal_point":"center center"}},"a5023328-518c-4de2-aebe-daeda463c35b":{"type":"image","settings":{"title":"","title_size":80,"subheading":"","link":"","link_text":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/Website_banner-apparel-1280x600.jpg","focal_point":"center center"}}},"block_order":["4d0969be-a5ad-4470-b884-062a029e8ec4","d435a282-2d56-4632-b3e5-2b89a0f987d8","3f6c3407-33db-41cd-84c3-99c8d9c43bdc","6ce08b30-74bb-481f-b600-a4e2355eab70","a5023328-518c-4de2-aebe-daeda463c35b"],"custom_css":[],"settings":{"style":"arrows","desktop_size":-10,"mobile_size":0,"autoplay":true,"autoplay_speed":5}},"adbb7a9f-1625-49f3-8725-88b5ba0b6b32":{"type":"logo-list","blocks":{"adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/4_20230317_225758_0003.png","link":""}},"adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/1_20230317_225758_0000.png","link":""}},"adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/3_20230317_225758_0002.png","link":""}},"adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/2_20230317_225758_0001.png","link":""}}},"block_order":["adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-0","adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-1","adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-2","adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-3"],"custom_css":[".index-section {margin: 0px;}",".logo-bar__item {margin: 0px 40px;}"],"settings":{"title":"","logo_opacity":100,"alt":false}},"7b0777db-6064-4496-937d-676c60750d40":{"type":"featured-collections","blocks":{"9e7a34a6-1cc6-49b9-b5e4-0abfcdd86d9a":{"type":"collection","settings":{"collection":"men","focal_point":"center center"}},"011c32f5-7c13-47ba-84bb-322e436e89a6":{"type":"collection","settings":{"collection":"women","focal_point":"center center"}},"635148ee-5ede-449c-9bbd-e0c8146f4398":{"type":"collection","settings":{"collection":"nutrition","focal_point":"center center"}},"d6c4661f-bd33-4231-9db9-fa9c97c1e619":{"type":"collection","settings":{"collection":"cycles","focal_point":"center center"}},"54fb6062-1ab6-4c30-ba64-c88504155eb3":{"type":"collection","settings":{"collection":"cricket","focal_point":"center center"}},"c532802c-3d89-42dc-8ca8-0d418b0ea14a":{"type":"collection","settings":{"collection":"badminton-1","focal_point":"center center"}},"9b6cbc3c-707d-4d62-9f13-bcd28a279106":{"type":"collection","settings":{"collection":"tennis","focal_point":"center center"}},"557c4cf7-5ea4-4a04-a440-1ec51f41ea49":{"type":"collection","settings":{"collection":"table-tennis","focal_point":"center center"}},"94443502-b7eb-476d-9ce8-f47be1b0aaa7":{"type":"collection","settings":{"collection":"gym","focal_point":"center center"}},"6675c62c-ad5d-4a13-9f5e-2f74f2e34a60":{"type":"collection","settings":{"collection":"sunglasses","focal_point":"center center"}},"92c3bdb0-1e97-44ef-8fa9-c18dd3254baa":{"type":"collection","settings":{"collection":"backpack","focal_point":"center center"}},"76a45ce7-b09b-4438-9968-dc699576146e":{"type":"collection","settings":{"collection":"skating","focal_point":"center center"}},"9970ee4b-f400-4b43-b878-76f24e57de3d":{"type":"collection","settings":{"collection":"gym-accessories","focal_point":"center center"}},"a84f5192-d8e2-4bea-96d3-551a651048a7":{"type":"collection","settings":{"collection":"adventure-sports","focal_point":"center center"}},"e5bbb800-7b38-4d5f-b679-6166bf91edf2":{"type":"collection","settings":{"collection":"swimming","focal_point":"center center"}}},"block_order":["9e7a34a6-1cc6-49b9-b5e4-0abfcdd86d9a","011c32f5-7c13-47ba-84bb-322e436e89a6","635148ee-5ede-449c-9bbd-e0c8146f4398","d6c4661f-bd33-4231-9db9-fa9c97c1e619","54fb6062-1ab6-4c30-ba64-c88504155eb3","c532802c-3d89-42dc-8ca8-0d418b0ea14a","9b6cbc3c-707d-4d62-9f13-bcd28a279106","557c4cf7-5ea4-4a04-a440-1ec51f41ea49","94443502-b7eb-476d-9ce8-f47be1b0aaa7","6675c62c-ad5d-4a13-9f5e-2f74f2e34a60","92c3bdb0-1e97-44ef-8fa9-c18dd3254baa","76a45ce7-b09b-4438-9968-dc699576146e","9970ee4b-f400-4b43-b878-76f24e57de3d","a84f5192-d8e2-4bea-96d3-551a651048a7","e5bbb800-7b38-4d5f-b679-6166bf91edf2"],"custom_css":[".index-section--alt {margin: 0; padding: 0px 40;}"],"settings":{"title":"Collections","alt":true}},"7d137988-6da2-4489-8435-5ff16b9d2280":{"type":"advanced-content","blocks":{"7d137988-6da2-4489-8435-5ff16b9d2280-167958150315f621c3-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Adidas-logo.webp","link":"shopify:\/\/collections\/adidas","width":"33%","alignment":"top-middle"}},"563db8eb-ea92-4908-b13e-10a32fcd8bd2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/nike.jpg","link":"shopify:\/\/collections\/nike","width":"33%","alignment":"top-middle"}},"d88a77b1-45c6-4cc1-ad51-7e9de069197e":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/niivia.jpg","link":"shopify:\/\/collections\/nivia","width":"33%","alignment":"top-middle"}}},"block_order":["7d137988-6da2-4489-8435-5ff16b9d2280-167958150315f621c3-0","563db8eb-ea92-4908-b13e-10a32fcd8bd2","d88a77b1-45c6-4cc1-ad51-7e9de069197e"],"disabled":true,"settings":{"full_width":false,"space_around":true,"alt":false}},"03ba7267-6fb8-4a7f-8618-e6873c3a6a7f":{"type":"advanced-content","blocks":{"2abb472b-dd29-47df-8816-833976306d9f":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/cos_1d9ef1c5-2993-4e5f-b3b3-891da60c554c.jpg","link":"shopify:\/\/collections\/cosco","width":"33%","alignment":"top-middle"}},"f26edfac-6bf1-40d9-a22d-0d8ab6f8476a":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/yonex.jpg","link":"shopify:\/\/collections\/badminton","width":"33%","alignment":"top-middle"}},"c6d305e4-7dde-4ead-81ee-81a8e8afdad4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/decathlonn_50cc77ff-152e-4a12-98eb-4daeaed9fffa.jpg","link":"shopify:\/\/collections\/domyos","width":"33%","alignment":"top-middle"}}},"block_order":["2abb472b-dd29-47df-8816-833976306d9f","f26edfac-6bf1-40d9-a22d-0d8ab6f8476a","c6d305e4-7dde-4ead-81ee-81a8e8afdad4"],"disabled":true,"settings":{"full_width":false,"space_around":true,"alt":false}},"1ed423e1-e8ba-4a32-88fd-86f1848e721e":{"type":"advanced-content","blocks":{"9f82743b-97f2-457e-abdd-16d4103ccd36":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/shiv_naresh.jpg","link":"shopify:\/\/collections\/shiv-naresh","width":"33%","alignment":"top-middle"}},"f3dbff1d-ec0d-46e2-bc99-cfd0581ce732":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/alfa.jpg","link":"shopify:\/\/collections\/hockey","width":"33%","alignment":"top-middle"}},"80fc8723-3e26-453b-8337-aa285221c5a5":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/sg.jpg","link":"shopify:\/\/collections\/sg-cricket","width":"33%","alignment":"top-middle"}}},"block_order":["9f82743b-97f2-457e-abdd-16d4103ccd36","f3dbff1d-ec0d-46e2-bc99-cfd0581ce732","80fc8723-3e26-453b-8337-aa285221c5a5"],"disabled":true,"settings":{"full_width":false,"space_around":true,"alt":false}}},"content_for_index":["1559321610782","c96c6295-7844-4e58-85a5-e4fdbc40b7e2","1559586187853","adbb7a9f-1625-49f3-8725-88b5ba0b6b32","1559585995085","1543003878234","7b0777db-6064-4496-937d-676c60750d40","1647703716aa66b6b2","1559687247066","1559096311192","1559098181700","1644948422babe2dd5","1647366819b58a7eba","162817905914c598f3","1628187679b19ef880","162815238940b4f047","162815310454f97824","1628105105b340f27c","1631780139d2715a3a","16435624415d1fd406","1643562396261cc182","7d137988-6da2-4489-8435-5ff16b9d2280","03ba7267-6fb8-4a7f-8618-e6873c3a6a7f","1ed423e1-e8ba-4a32-88fd-86f1848e721e"],"blocks":{"3753596010683798665":{"type":"shopify:\/\/apps\/pushdaddy-whatsapp-live-chat\/blocks\/app-embed\/e3f2054d-bf7b-4e63-8db3-00712592382c","disabled":false,"settings":{}}}},"presets":{"Core":{"animate_images":true,"animate_page_transition_style":"page-logo","button_style":"round","button_type_style":"normal","cart_type":"sticky","checkout_accent_color":"#111111","checkout_banner_background_color":"#ffffff","checkout_body_background_color":"#ffffff","checkout_body_font":"Helvetica Neue","checkout_button_color":"#111111","checkout_call_to_action_color":"#a26b25","checkout_error_color":"#ff6d6d","checkout_heading_font":"Helvetica Neue","checkout_input_background_color_mode":"white","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_sidebar_background_color":"#fafafa","checkout_use_header_image":false,"color_alt_bg":"#f9f9f9","color_alt_text":"#000000","color_announcement":"#000000","color_announcement_text":"#ffffff","color_body_bg":"#ffffff","color_body_text":"#000000","color_button":"#000000","color_button_text":"#ffffff","color_cart_dot":"#f75d44","color_cart_dot_text":"#ffffff","color_drawer_background":"#ffffff","color_drawer_text":"#000000","color_image_overlay":"#000000","color_image_overlay_opacity":10,"color_image_overlay_text_shadow":20,"color_image_text":"#ffffff","color_large_image_bg":"#000000","color_newsletter":"#000000","color_newsletter_text":"#fff","color_sale_price":"#000000","color_sale_tag":"#990000","color_small_image_bg":"#ffffff","desktop_loader_width":100,"mobile_loader_width":100,"product_grid_image_size":"natural","product_hover_details":false,"product_hover_image":true,"product_image_scatter":false,"product_video_style":"muted","reviews_layout":"full","social_facebook_link":"https:\/\/www.facebook.com\/shopify","social_instagram_link":"https:\/\/instagram.com\/shopify","social_pinterest_link":"https:\/\/www.pinterest.com\/shopify","type_base_font_family":"roboto_condensed_n4","type_base_line_height":1.6,"type_base_size":18,"type_base_spacing":"25","type_header_base_size":46,"type_header_capitalize":true,"type_header_font_family":"roboto_condensed_i7","type_header_line_height":1,"type_header_spacing":"-25","type_product_capitalize":false,"sections":{"header":{"type":"header","settings":{"sticky_index":true,"sticky_collection":false,"header_search_enable":true,"show_announcement":false,"show_announcement_home_only":false}},"footer":{"type":"footer","settings":{"show_newsletter":true,"show_social_icons":true,"menu":"footer","newsletter_title":"Join the club","newsletter_richtext":"","show_payment_icons":false,"show_copyright":false}},"collection-template":{"type":"collection-template","settings":{"per_row_desktop":3}},"product-template":{"type":"product-template","settings":{}},"article-template":{"type":"article-template","settings":{"blog_show_image":true,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":false,"social_sharing_blog":true}},"blog-template":{"type":"blog-template","settings":{"blog_show_tag_filter":true,"blog_show_rss":false,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":false}},"product-sections":{"type":"product-sections","blocks":{"product-text-columns":{"type":"text-columns","settings":{"title":"Why choose us?","align_text":"center","alt":true,"enable_image_1":false,"image_width_1":650,"title_1":"Reason one","text_1":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_2":false,"image_width_2":650,"title_2":"Reason two","text_2":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_3":false,"image_width_3":650,"title_3":"","text_3":""}},"product-text-and-image":{"type":"text-and-image","settings":{"image_width":700,"text":"<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>","button_style":"primary","layout":"right"}},"product-background-image-text":{"type":"background-image-text","settings":{"layout":"right"}}},"block_order":["product-text-columns","product-text-and-image","product-background-image-text"],"settings":{}},"page-sections-template":{"type":"page-sections-template","blocks":{"1559681273277":{"type":"image-hero","settings":{"title_size":80,"text_align":"vertical-center horizontal-center"}},"1558643031646":{"type":"text-and-image","settings":{"image_width":450,"button_style":"primary","layout":"right"}},"1558643392013":{"type":"map","settings":{}},"1558643431127":{"type":"collection-slider","settings":{"per_row":"large"}},"1558643225272":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":60,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-center horizontal-center","section_height":"750px","mobile_height":"100vh"}}},"block_order":["1559681273277","1558643031646","1558643392013","1558643431127","1558643225272"],"settings":{"page_title_enable":false,"page_content_enable":true}},"newsletter-popup":{"type":"newsletter-popup","settings":{"mode":"disabled","popup_seconds":5,"popup_days":30,"enable_newsletter":true}},"1543003878234":{"type":"featured-collections","blocks":{"1543003878234-0":{"type":"collection","settings":{}},"1543003878234-1":{"type":"collection","settings":{}},"1543003878234-2":{"type":"collection","settings":{}},"1543003878234-3":{"type":"collection","settings":{}}},"block_order":["1543003878234-0","1543003878234-1","1543003878234-2","1543003878234-3"],"settings":{"alt":true,"title":"Shop all"}},"list-collections-template":{"type":"list-collections-template","settings":{}},"1556162802939":{"type":"featured-collection","settings":{"per_row_desktop":4,"per_row_mobile":"2","description":"For more traditional layouts"}},"1556162914490":{"type":"featured-collection-slider","settings":{"description":"With infinite scrolling"}},"1558626745581":{"type":"featured-content","settings":{"align_text":"center","narrow_column":true,"enlarge_text":true}},"1559096311192":{"type":"hero-animated","blocks":{"1559096311192-0":{"type":"image","settings":{}},"1559097202495":{"type":"image","settings":{}}},"block_order":["1559096311192-0","1559097202495"],"settings":{"style":"gif","title":"Make an impression","title_size":80,"text_align":"vertical-center horizontal-center"}},"1559098181700":{"type":"slideshow","blocks":{"1559098181700-0":{"type":"image","settings":{"title_size":80,"text_align":"vertical-bottom horizontal-left"}}},"block_order":["1559098181700-0"],"settings":{}},"1559321610782":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":80,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-bottom horizontal-center","section_height":"750px","mobile_height":"100vh"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true}},"1559585995085":{"type":"featured-collection-slider","settings":{"description":"With infinite scrolling"}},"1559586187853":{"type":"marquee","settings":{"text":"Follow us for monthly apparel giveaways","text_size":36}},"1559687247066":{"type":"text-and-image","settings":{"image_width":700,"button_label":"Our story","button_style":"secondary","layout":"right"}},"1559687361077":{"type":"text-and-image","settings":{"image_width":700,"button_label":"Contact us","button_style":"secondary","layout":"left"}},"1559687710135":{"type":"map","settings":{}}},"content_for_index":["1559321610782","1559585995085","1558626745581","1559096311192","1556162914490","1559098181700","1556162802939","1543003878234","1559687247066","1559687361077","1559687710135","1559586187853"]},"Luxe":{"animate_images":true,"animate_page_transition_style":"page-logo","button_style":"shadow","cart_type":"sticky","checkout_accent_color":"#111111","checkout_banner_background_color":"#ffffff","checkout_body_background_color":"#ffffff","checkout_body_font":"Helvetica Neue","checkout_button_color":"#111111","checkout_call_to_action_color":"#a26b25","checkout_error_color":"#ff6d6d","checkout_heading_font":"Helvetica Neue","checkout_input_background_color_mode":"white","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_sidebar_background_color":"#fafafa","checkout_use_header_image":false,"color_alt_bg":"#ffffff","color_alt_text":"#333029","color_announcement":"#c67066","color_announcement_text":"#ffffff","color_body_bg":"#fdfbfa","color_body_text":"#333029","color_button":"#c67066","color_button_text":"#ffffff","color_cart_dot":"#c67066","color_drawer_background":"#fdf9f5","color_drawer_text":"#333029","color_image_bg":"#000000","color_image_overlay":"#000000","color_image_overlay_opacity":10,"color_image_text":"#ffffff","color_large_image_bg":"#eee5e0","color_newsletter":"#c67066","color_newsletter_text":"#ffffff","color_sale_price":"#333029","color_sale_tag":"#c67066","color_small_image_bg":"#fdfbfa","desktop_loader_width":140,"mobile_loader_width":130,"product_grid_image_size":"natural","product_hover_details":true,"product_hover_image":true,"product_image_scatter":false,"product_video_style":"muted","reviews_layout":"full","social_facebook_link":"https:\/\/www.facebook.com\/shopify","social_instagram_link":"https:\/\/instagram.com\/shopify","social_pinterest_link":"https:\/\/www.pinterest.com\/shopify","type_base_font_family":"futura_n4","type_base_line_height":1.7,"type_base_size":18,"type_base_spacing":"25","type_header_base_size":50,"type_header_capitalize":false,"type_header_font_family":"itc_novarese_n5","type_header_line_height":1.1,"type_header_spacing":"0","type_product_capitalize":false,"sections":{"header":{"type":"header","settings":{"sticky_index":true,"sticky_collection":true,"header_search_enable":true,"show_announcement":true,"show_announcement_home_only":false}},"footer":{"type":"footer","settings":{"show_newsletter":true,"show_social_icons":true,"show_payment_icons":false,"show_copyright":false}},"collection-template":{"type":"collection-template","settings":{"per_row_desktop":3}},"product-template":{"type":"product-template","settings":{}},"article-template":{"type":"article-template","settings":{"blog_show_image":false,"blog_show_tags":true,"blog_show_date":false,"blog_show_comments":true,"blog_show_author":false,"social_sharing_blog":false}},"blog-template":{"type":"blog-template","settings":{"blog_show_tag_filter":true,"blog_show_rss":false,"blog_show_tags":true,"blog_show_date":false,"blog_show_comments":true,"blog_show_author":false}},"product-sections":{"type":"product-sections","blocks":{"product-text-columns":{"type":"text-columns","settings":{"title":"Why choose us?","align_text":"center","alt":true,"enable_image_1":false,"image_width_1":650,"title_1":"Reason one","text_1":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_2":false,"image_width_2":650,"title_2":"Reason two","text_2":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_3":false,"image_width_3":650,"title_3":"","text_3":""}},"product-text-and-image":{"type":"text-and-image","settings":{"image_width":700,"text":"<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>","button_style":"primary","layout":"right"}},"product-background-image-text":{"type":"background-image-text","settings":{"layout":"right"}}},"block_order":["product-text-columns","product-text-and-image","product-background-image-text"],"settings":{}},"page-sections-template":{"type":"page-sections-template","blocks":{"1558643031646":{"type":"text-and-image","settings":{"image_width":400,"button_style":"primary","layout":"right"}},"1558643225272":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":47,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-center horizontal-center","section_height":"750px","mobile_height":"100vh"}},"1558643431127":{"type":"collection-slider","settings":{"per_row":"small"}},"1558643392013":{"type":"map","settings":{}}},"block_order":["1558643031646","1558643225272","1558643431127","1558643392013"],"settings":{"page_title_enable":true,"page_content_enable":true}},"newsletter-popup":{"type":"newsletter-popup","settings":{"mode":"disabled","popup_seconds":5,"popup_days":30,"enable_newsletter":true}},"list-collections-template":{"type":"list-collections-template","settings":{"title_enable":true,"display_type":"all"}},"1555097143929":{"type":"text-and-image","settings":{"image_width":700,"button_style":"btn","layout":"right"}},"1555439851826":{"type":"background-image-text","settings":{"color_border":"#4f1c3a","layout":"right"}},"1556162802939":{"type":"featured-collection-slider","settings":{}},"1556162914490":{"type":"featured-collection-slider","settings":{}},"1558625522348":{"type":"background-image-text","settings":{"color_border":"#4f1c3a","layout":"left"}},"1558626497917":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":80,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-center horizontal-center","section_height":"750px","mobile_height":"100vh"}},"1558626745581":{"type":"featured-content","settings":{"align_text":"center","narrow_column":true,"enlarge_text":true}},"1559155590855":{"type":"text-columns","blocks":{"1559155590855-0":{"type":"text_block","settings":{"enable_image":false,"title":"Reason one"}},"1559155590855-1":{"type":"text_block","settings":{"enable_image":false,"title":"Reason two"}}},"block_order":["1559155590855-0","1559155590855-1"],"settings":{"title":"Why choose us?","align_text":"center","alt":true}},"password-header":{"type":"password-header","settings":{}},"password-content":{"type":"password-content","settings":{"newsletter_enable":true,"show_share_buttons":false,"show_image":true}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"per_row":"small"}}},"content_for_index":["1558626497917","1556162914490","1558626745581","1555097143929","1555439851826","1559155590855","1556162802939","1558625522348"]},"Hype":{"animate_images":false,"animate_page_transition_style":"page-logo","button_style":"shadow","cart_type":"sticky","checkout_accent_color":"#111111","checkout_body_background_color":"#ffffff","checkout_body_font":"Helvetica Neue","checkout_button_color":"#111111","checkout_error_color":"#ff6d6d","checkout_heading_font":"Helvetica Neue","checkout_input_background_color_mode":"white","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_sidebar_background_color":"#fafafa","color_alt_bg":"#000000","color_alt_text":"#ffffff","color_announcement":"#000000","color_announcement_text":"#ffffff","color_body_bg":"#ffffff","color_cart_dot":"#FF2300","color_drawer_background":"#ffffff","color_drawer_text":"#000000","color_image_bg":"#000000","color_image_overlay":"#000000","color_image_overlay_opacity":10,"color_image_text":"#ffffff","color_large_image_bg":"#000000","color_newsletter":"#000000","color_newsletter_text":"#ffffff","color_small_image_bg":"#f2f2f2","desktop_loader_width":190,"mobile_loader_width":180,"product_grid_image_size":"natural","product_hover_details":false,"product_hover_image":true,"product_image_scatter":true,"product_video_style":"muted","reviews_layout":"full","social_facebook_link":"https:\/\/www.facebook.com\/shopify","social_instagram_link":"https:\/\/instagram.com\/shopify","social_pinterest_link":"https:\/\/www.pinterest.com\/shopify","type_base_font_family":"basic_commercial_n7","type_base_line_height":1.3,"type_base_size":20,"type_base_spacing":"25","type_header_base_size":48,"type_header_capitalize":true,"type_header_font_family":"basic_commercial_n7","type_header_line_height":0.9,"type_header_spacing":"25","type_product_capitalize":true,"sections":{"header":{"type":"header","settings":{"sticky_index":true,"sticky_collection":true,"header_search_enable":true,"show_announcement":false}},"footer":{"type":"footer","settings":{"show_newsletter":false}},"collection-template":{"type":"collection-template","settings":{"per_row_desktop":3}},"product-template":{"type":"product-template","settings":{}},"article-template":{"type":"article-template","settings":{"blog_show_image":true,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":false,"social_sharing_blog":true}},"blog-template":{"type":"blog-template","settings":{"blog_show_tag_filter":true,"blog_show_rss":false,"blog_show_tags":true,"blog_show_date":true,"blog_show_comments":true,"blog_show_author":false}},"product-sections":{"type":"product-sections","blocks":{"product-text-columns":{"type":"text-columns","settings":{"title":"Why choose us?","align_text":"center","alt":true,"enable_image_1":false,"image_width_1":650,"title_1":"Reason one","text_1":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_2":false,"image_width_2":650,"title_2":"Reason two","text_2":"<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>","enable_image_3":false,"image_width_3":650,"title_3":"","text_3":""}},"product-text-and-image":{"type":"text-and-image","settings":{"image_width":700,"text":"<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>","button_style":"primary","layout":"right"}},"product-background-image-text":{"type":"background-image-text","settings":{"layout":"right"}}},"block_order":["product-text-columns","product-text-and-image","product-background-image-text"],"settings":{}},"page-sections-template":{"type":"page-sections-template","blocks":{"1558643031646":{"type":"text-and-image","settings":{"image_width":400,"button_style":"primary","layout":"right"}},"1558643431127":{"type":"collection-slider","settings":{"per_row":"small"}}},"block_order":["1558643031646","1558643431127"],"settings":{"page_title_enable":true,"page_content_enable":true}},"newsletter-popup":{"type":"newsletter-popup","settings":{"mode":"disabled","popup_seconds":5,"popup_days":30,"enable_newsletter":true}},"list-collections-template":{"type":"list-collections-template","settings":{}},"1555097143929":{"type":"text-and-image","settings":{}},"1556162802939":{"type":"featured-collection-slider","settings":{}},"1556162914490":{"type":"featured-collection-slider","settings":{}},"1559240039950":{"type":"hero-animated","blocks":{"1559240039950-0":{"type":"image","settings":{}},"1559240039950-1":{"type":"image","settings":{}},"1559309176406":{"type":"image","settings":{}}},"block_order":["1559240039950-0","1559240039950-1","1559309176406"],"settings":{"style":"gif","title_size":72,"text_align":"vertical-bottom horizontal-right"}},"1559241610369":{"type":"marquee","settings":{"text":"☞ FREE SHIPPING AND RETURNS","text_size":70,"text_spacing":true,"color_scheme":"text","direction":"left"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"per_row":"large"}},"1559249041610":{"type":"hero-video","settings":{"title":"Keep it short\nand sweet.","title_size":80,"subheading":"Explain your brand in more depth on your product pages","text_align":"vertical-bottom horizontal-left","section_height":"750px","mobile_height":"100vh"}}},"content_for_index":["1559240039950","1555097143929","1559241610369","1556162914490","1559249041610","1556162802939"]}}}
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_button": "#432344",
+    "color_button_text": "#ffffff",
+    "color_sale_price": "#000000",
+    "color_sale_tag": "#ffba00",
+    "color_cart_dot": "#ffba00",
+    "color_cart_dot_text": "#ffffff",
+    "color_alt_bg": "#f9f9f9",
+    "color_alt_text": "#000000",
+    "color_announcement": "#432344",
+    "color_announcement_text": "#ffffff",
+    "color_newsletter": "#ffffff",
+    "color_newsletter_text": "#000000",
+    "color_drawer_background": "#432344",
+    "color_drawer_text": "#ffffff",
+    "color_image_text": "#ffffff",
+    "color_image_overlay": "#000000",
+    "color_image_overlay_opacity": 10,
+    "color_image_overlay_text_shadow": 20,
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "#000000",
+    "type_header_font_family": "roboto_condensed_i7",
+    "type_header_capitalize": true,
+    "type_header_spacing": -25,
+    "type_header_base_size": 46,
+    "type_header_line_height": 1,
+    "type_base_font_family": "roboto_condensed_n4",
+    "type_product_capitalize": false,
+    "type_base_spacing": 25,
+    "type_base_size": 18,
+    "type_base_line_height": 1.6,
+    "button_type_style": "caps",
+    "button_style": "round",
+    "type_navigation_size": 20,
+    "animate_images": true,
+    "logo_loader_image": "shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_47446f7d-de09-4a0d-8675-45b8c2b8a6ca.png",
+    "desktop_loader_width": 100,
+    "mobile_loader_width": 100,
+    "product_hover_details": false,
+    "product_hover_image": true,
+    "product_image_scatter": false,
+    "product_grid_image_size": "square",
+    "product_save_amount": true,
+    "product_save_type": "dollar",
+    "additional_content_style": "tab",
+    "enable_product_reviews": true,
+    "enable_product_reviews_collection": false,
+    "quick_shop_enable": false,
+    "quick_shop_style": "product",
+    "cart_type": "sticky",
+    "cart_icon": "bag",
+    "cart_additional_buttons": false,
+    "cart_notes_enable": false,
+    "social_instagram_link": "https:\/\/www.instagram.com\/kibi_sports\/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/kibisports",
+    "social_twitter_link": "https:\/\/twitter.com\/KibiSports",
+    "social_pinterest_link": "",
+    "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/kibi-sports\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/c\/KIBISPORTS",
+    "favicon": "shopify:\/\/shop_images\/Untitled-2_164b83b4-48fe-4ad6-9462-b696d86c8abd.jpg",
+    "search_type": "product",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_c7df13e3-fe20-4a0c-b803-4a3469568e39.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#111111",
+    "checkout_error_color": "#ff6d6d",
+    "animate_page_transition_style": "page-logo",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "product_video_style": "muted",
+    "reviews_layout": "full",
+    "sections": {
+      "header": {
+        "type": "header",
+        "custom_css": [
+          ".site-header {padding: 0px 0; font-weight: 500;}"
+        ],
+        "settings": {
+          "header_style": "bar",
+          "main_menu_alignment": "right",
+          "sticky_index": false,
+          "sticky_collection": false,
+          "header_search_enable": true,
+          "logo": "shopify:\/\/shop_images\/Kibi_Logo_Black_Transparent_1_c7df13e3-fe20-4a0c-b803-4a3469568e39.png",
+          "logo-inverted": "shopify:\/\/shop_images\/Kibi_Logo_White_Transparent_1.png",
+          "desktop_logo_width": 110,
+          "mobile_logo_width": 50,
+          "logo_hide_mobile": true,
+          "main_menu_link_list": "main-menu",
+          "show_announcement": true,
+          "show_announcement_home_only": false,
+          "announcement_text": "FREE SHIPPING ON ORDERS ABOVE Rs. 500",
+          "announcement_link": "shopify:\/\/collections"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "custom_css": [
+
+        ],
+        "settings": {
+          "show_newsletter": true,
+          "newsletter_title": "Join the club",
+          "newsletter_richtext": "<p>Get latest offers & products updates along with trending sports news in your mailbox.<\/p>",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_social_icons": true,
+          "menu": "footer",
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "per_row_desktop": 4,
+          "per_row_mobile": "1",
+          "description_bottom": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_size": "small",
+          "product_image_type": "stacked",
+          "product_zoom_enable": true,
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "inventory_transfers_enable": false,
+          "quantity_enable": false,
+          "surface_pickup_enable": false,
+          "social_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image": true,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "social_sharing_blog": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "post_limit": 9,
+          "blog_show_tag_filter": true,
+          "blog_show_rss": false,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": true,
+          "blog_show_excerpt": true,
+          "blog_image_size": "square"
+        }
+      },
+      "product-sections": {
+        "type": "product-sections",
+        "blocks": {
+          "product-text-columns": {
+            "type": "text-columns",
+            "settings": {
+              "title": "Why choose us?",
+              "align_text": "center",
+              "alt": true,
+              "enable_image_1": true,
+              "image_1": "shopify:\/\/shop_images\/shipped.png",
+              "image_width_1": 80,
+              "title_1": "",
+              "text_1": "<p>Free Shipping Across India<\/p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify:\/\/shop_images\/24-hours.png",
+              "image_width_2": 80,
+              "title_2": "",
+              "text_2": "<p>24\/7 Support<\/p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": true,
+              "image_3": "shopify:\/\/shop_images\/security.png",
+              "image_width_3": 80,
+              "title_3": "",
+              "text_3": "<p>Secure Payment System<\/p>",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "product-text-and-image": {
+            "type": "text-and-image",
+            "disabled": true,
+            "settings": {
+              "image_width": 700,
+              "subtitle": "",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "product-background-image-text": {
+            "type": "background-image-text",
+            "disabled": true,
+            "settings": {
+              "subtitle": "",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "desktop_size": 0,
+              "image_alignment": "center center",
+              "color_border": "#f4f4f4",
+              "layout": "right"
+            }
+          },
+          "13be62fc-96fa-4252-a5bb-b1f6a2bd909b": {
+            "type": "testimonials",
+            "disabled": true,
+            "settings": {
+              "title": "Reviews",
+              "align_text": "center",
+              "round_images": false,
+              "alt": false,
+              "testimonial_1": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author_1": "Author's name",
+              "testimonial_2": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author_2": "Author's name"
+            }
+          }
+        },
+        "block_order": [
+          "product-text-columns",
+          "product-text-and-image",
+          "product-background-image-text",
+          "13be62fc-96fa-4252-a5bb-b1f6a2bd909b"
+        ],
+        "settings": {
+        }
+      },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "1559681273277": {
+            "type": "image-hero",
+            "settings": {
+              "title_size": 80,
+              "text_align": "vertical-center horizontal-center"
+            }
+          },
+          "1558643031646": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 450,
+              "button_style": "primary",
+              "layout": "right"
+            }
+          },
+          "1558643392013": {
+            "type": "map",
+            "settings": {
+            }
+          },
+          "1558643431127": {
+            "type": "collection-slider",
+            "settings": {
+              "per_row": "large"
+            }
+          },
+          "1558643225272": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Keep it short\nand sweet.",
+              "title_size": 60,
+              "subheading": "Explain your brand in more depth on your product pages",
+              "text_align": "vertical-center horizontal-center",
+              "section_height": "750px",
+              "mobile_height": "100vh"
+            }
+          }
+        },
+        "block_order": [
+          "1559681273277",
+          "1558643031646",
+          "1558643392013",
+          "1558643431127",
+          "1558643225272"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": true
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+          "enable_newsletter": true,
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "1543003878234": {
+        "type": "featured-collections",
+        "blocks": {
+          "2bd1e5ef-477b-426d-a4a1-8c16755d26ee": {
+            "type": "collection",
+            "settings": {
+              "collection": "adidas",
+              "focal_point": "center center"
+            }
+          },
+          "2770ae7a-9497-47f4-a5d4-9bd761080bf7": {
+            "type": "collection",
+            "settings": {
+              "collection": "adventure-worx",
+              "focal_point": "center center"
+            }
+          },
+          "a4ed22a3-89a8-4970-96da-fc9337a1da0c": {
+            "type": "collection",
+            "settings": {
+              "collection": "cosco",
+              "image": "shopify:\/\/shop_images\/cos_1d9ef1c5-2993-4e5f-b3b3-891da60c554c.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "1543003878234-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "krosfit",
+              "focal_point": "center center"
+            }
+          },
+          "85a1dbcc-4075-4d73-87cd-db85ac033b4e": {
+            "type": "collection",
+            "settings": {
+              "collection": "life-speed",
+              "focal_point": "center center"
+            }
+          },
+          "a4b6b462-44fc-4d02-b878-cb2c23d988e3": {
+            "type": "collection",
+            "settings": {
+              "collection": "nivia",
+              "image": "shopify:\/\/shop_images\/niivia.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "398e94eb-8688-4732-ac75-cab254f706a1": {
+            "type": "collection",
+            "settings": {
+              "collection": "nike",
+              "image": "shopify:\/\/shop_images\/nike.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "5db5db7a-bd3e-49e6-90cc-3d48820515a4": {
+            "type": "collection",
+            "settings": {
+              "collection": "omtex",
+              "focal_point": "center center"
+            }
+          },
+          "5e19b7f0-eeb6-4222-9f94-e350ed646e76": {
+            "type": "collection",
+            "settings": {
+              "collection": "puma",
+              "focal_point": "center center"
+            }
+          },
+          "8cf4f0e6-b7cc-42f4-98f5-b3409c56f533": {
+            "type": "collection",
+            "settings": {
+              "collection": "quechua",
+              "focal_point": "center center"
+            }
+          },
+          "3f29fafd-f203-4686-a398-2dc9616d616a": {
+            "type": "collection",
+            "settings": {
+              "collection": "reebok",
+              "focal_point": "center center"
+            }
+          },
+          "1aad99d8-8656-4c4d-8669-712d2a64d878": {
+            "type": "collection",
+            "settings": {
+              "collection": "stag",
+              "focal_point": "center center"
+            }
+          },
+          "1543003878234-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "skechers",
+              "focal_point": "center center"
+            }
+          },
+          "79979b67-e4f7-4778-9b48-2cbe3c808378": {
+            "type": "collection",
+            "settings": {
+              "collection": "vaux-cycles",
+              "focal_point": "center center"
+            }
+          },
+          "c076afba-1d45-4330-a21c-6c9158834687": {
+            "type": "collection",
+            "settings": {
+              "collection": "badminton",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "2bd1e5ef-477b-426d-a4a1-8c16755d26ee",
+          "2770ae7a-9497-47f4-a5d4-9bd761080bf7",
+          "a4ed22a3-89a8-4970-96da-fc9337a1da0c",
+          "1543003878234-3",
+          "85a1dbcc-4075-4d73-87cd-db85ac033b4e",
+          "a4b6b462-44fc-4d02-b878-cb2c23d988e3",
+          "398e94eb-8688-4732-ac75-cab254f706a1",
+          "5db5db7a-bd3e-49e6-90cc-3d48820515a4",
+          "5e19b7f0-eeb6-4222-9f94-e350ed646e76",
+          "8cf4f0e6-b7cc-42f4-98f5-b3409c56f533",
+          "3f29fafd-f203-4686-a398-2dc9616d616a",
+          "1aad99d8-8656-4c4d-8669-712d2a64d878",
+          "1543003878234-0",
+          "79979b67-e4f7-4778-9b48-2cbe3c808378",
+          "c076afba-1d45-4330-a21c-6c9158834687"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Brands",
+          "alt": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "260a3fd2-8a1d-4497-b2ee-a56ab4159cb6": {
+            "type": "collection",
+            "settings": {
+              "collection": "men"
+            }
+          },
+          "c818d814-319e-4d62-a519-f9513fc3b2f1": {
+            "type": "collection",
+            "settings": {
+              "collection": "women"
+            }
+          },
+          "620f7ae2-9de0-4a31-9247-0499cd1f5e18": {
+            "type": "collection",
+            "settings": {
+              "collection": "nutrition"
+            }
+          },
+          "7e7b868f-e8a0-4f0a-bab2-a5e7c3682d00": {
+            "type": "collection",
+            "settings": {
+              "collection": "cricket"
+            }
+          },
+          "b77f27a8-b10e-4375-a802-b2230ae22e6c": {
+            "type": "collection",
+            "settings": {
+              "collection": "badminton-1"
+            }
+          },
+          "2561c312-20e8-4b20-aca7-d3281cc58dbc": {
+            "type": "collection",
+            "settings": {
+              "collection": "squash"
+            }
+          },
+          "4b70c768-8a5a-4866-98de-2415e5745416": {
+            "type": "collection",
+            "settings": {
+              "collection": "tennis"
+            }
+          },
+          "80fcc8b3-e247-4b7e-989c-7e5fac907afe": {
+            "type": "collection",
+            "settings": {
+              "collection": "table-tennis"
+            }
+          },
+          "029104db-eb5e-486a-885b-506e86eaf939": {
+            "type": "collection",
+            "settings": {
+              "collection": "basketball"
+            }
+          },
+          "2efaad7c-fe2c-4052-b1a5-10938106887e": {
+            "type": "collection",
+            "settings": {
+              "collection": "handball"
+            }
+          },
+          "cf869f81-660c-4c2d-a08d-4ae94effd2be": {
+            "type": "collection",
+            "settings": {
+              "collection": "volleyball"
+            }
+          },
+          "94c8315c-9caf-4f53-844a-deb095a5b98c": {
+            "type": "collection",
+            "settings": {
+              "collection": "football"
+            }
+          },
+          "a9bd15b0-6182-4ee3-9d34-39291d7278ef": {
+            "type": "collection",
+            "settings": {
+              "collection": "skating"
+            }
+          },
+          "5ec7a5cc-fd00-449a-8b5b-ecf2c959521a": {
+            "type": "collection",
+            "settings": {
+              "collection": "swimming"
+            }
+          },
+          "16986116-ca1e-46d5-8414-80c893d7aa7c": {
+            "type": "collection",
+            "settings": {
+              "collection": "gym"
+            }
+          },
+          "fd7e4cdd-b98d-4b1c-8c13-67b545135d63": {
+            "type": "collection",
+            "settings": {
+              "collection": "gym-accessories"
+            }
+          },
+          "80fed5c7-2bb9-4825-bbe9-465cedc7acbf": {
+            "type": "collection",
+            "settings": {
+              "collection": "backpack"
+            }
+          },
+          "ddbd5eb3-1761-40c7-a32a-377a7a6b94c5": {
+            "type": "collection",
+            "settings": {
+              "collection": "sunglasses"
+            }
+          },
+          "fedcd8c8-4d6d-4f52-b91f-13917bcee8fa": {
+            "type": "collection",
+            "settings": {
+              "collection": "sports-equipment"
+            }
+          }
+        },
+        "block_order": [
+          "260a3fd2-8a1d-4497-b2ee-a56ab4159cb6",
+          "c818d814-319e-4d62-a519-f9513fc3b2f1",
+          "620f7ae2-9de0-4a31-9247-0499cd1f5e18",
+          "7e7b868f-e8a0-4f0a-bab2-a5e7c3682d00",
+          "b77f27a8-b10e-4375-a802-b2230ae22e6c",
+          "2561c312-20e8-4b20-aca7-d3281cc58dbc",
+          "4b70c768-8a5a-4866-98de-2415e5745416",
+          "80fcc8b3-e247-4b7e-989c-7e5fac907afe",
+          "029104db-eb5e-486a-885b-506e86eaf939",
+          "2efaad7c-fe2c-4052-b1a5-10938106887e",
+          "cf869f81-660c-4c2d-a08d-4ae94effd2be",
+          "94c8315c-9caf-4f53-844a-deb095a5b98c",
+          "a9bd15b0-6182-4ee3-9d34-39291d7278ef",
+          "5ec7a5cc-fd00-449a-8b5b-ecf2c959521a",
+          "16986116-ca1e-46d5-8414-80c893d7aa7c",
+          "fd7e4cdd-b98d-4b1c-8c13-67b545135d63",
+          "80fed5c7-2bb9-4825-bbe9-465cedc7acbf",
+          "ddbd5eb3-1761-40c7-a32a-377a7a6b94c5",
+          "fedcd8c8-4d6d-4f52-b91f-13917bcee8fa"
+        ],
+        "settings": {
+          "title_enable": false,
+          "display_type": "selected",
+          "sort": "alphabetical"
+        }
+      },
+      "1559096311192": {
+        "type": "hero-animated",
+        "blocks": {
+          "1559097202495": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Dart-16by9.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "1559096311192-0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/fitsum-admasu-oGv9xIl7DkY-unsplash_1.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/fitsum-admasu-oGv9xIl7DkY-unsplash_1.jpg",
+              "focal_point": "50% 10%"
+            }
+          },
+          "21788082-77ed-453d-ba88-de967614039a": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Group_297.png",
+              "image_mobile": "shopify:\/\/shop_images\/Group_297.png",
+              "focal_point": "20% 90%"
+            }
+          }
+        },
+        "block_order": [
+          "1559097202495",
+          "1559096311192-0",
+          "21788082-77ed-453d-ba88-de967614039a"
+        ],
+        "settings": {
+          "style": "gif",
+          "title": "",
+          "title_size": 80,
+          "subheading": "",
+          "link": "https:\/\/shop.kibi.co.in\/search?type=product&q=darts",
+          "link_text": "View Products",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-bottom horizontal-center",
+          "desktop_size": -20,
+          "mobile_size": 20
+        }
+      },
+      "1559098181700": {
+        "type": "slideshow",
+        "blocks": {
+          "1559098181700-0": {
+            "type": "image",
+            "settings": {
+              "title": "Get In. Get Fit. \nGet on with Life!",
+              "title_size": 68,
+              "subheading": "",
+              "link": "shopify:\/\/collections\/gym",
+              "link_text": "View Products",
+              "color_accent": "#000000",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify:\/\/shop_images\/ambitious-creative-co-rick-barrett-_MNnA-qojT4-unsplash_1_1.png",
+              "focal_point": "50% 90%"
+            }
+          },
+          "7e1db207-b965-4d7e-bc90-d86cbd9be991": {
+            "type": "image",
+            "settings": {
+              "title": "Get the best Deals \nOn the best Whey",
+              "title_size": 80,
+              "subheading": "The Best Quality Whey By The Super Whey Available Now",
+              "link": "shopify:\/\/collections\/the-super-whey",
+              "link_text": "View Products",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/1350x850.png",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "1559098181700-0",
+          "7e1db207-b965-4d7e-bc90-d86cbd9be991"
+        ],
+        "custom_css": [
+          "#Slideshow-1559098181700 {margin-top: 0px; margin-bottom: 0px;}"
+        ],
+        "settings": {
+          "style": "arrows",
+          "desktop_size": -20,
+          "mobile_size": 40,
+          "autoplay": false,
+          "autoplay_speed": 7
+        }
+      },
+      "1559321610782": {
+        "type": "hero-video",
+        "disabled": true,
+        "settings": {
+          "title": "Khelega India \nBadhega India",
+          "title_size": 78,
+          "subheading": "For all your sporting needs",
+          "link_text": "Shop Now",
+          "link": "shopify:\/\/collections",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-center horizontal-center",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=ZlfKYEG-eXk",
+          "section_height": "100vh",
+          "mobile_height": "auto"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "small"
+        }
+      },
+      "1559585995085": {
+        "type": "featured-collection-slider",
+        "settings": {
+          "title": "Featured collection",
+          "description": "",
+          "home_featured_products": "featured",
+          "per_row": "medium",
+          "alt": false
+        }
+      },
+      "1559586187853": {
+        "type": "marquee",
+        "custom_css": [
+          ".marquee--1559586187853 .marquee__text {font-size: 20px; animation-duration: 10s;"
+        ],
+        "settings": {
+          "text": "A2 Sports • Adidas • Adventure worx • Alfa • Alcis •  Alpino • Asics • Baller • Athletik • Bazooka Belco • BDM • Cosco • Cobra • Fadmen • FZ FORZA",
+          "link": "",
+          "text_size": 36,
+          "text_spacing": true,
+          "color_scheme": "button",
+          "direction": "left",
+          "speed": "slow"
+        }
+      },
+      "1559687247066": {
+        "type": "text-and-image",
+        "custom_css": [
+          ".index-section {margin: 0px 0; padding: 20px;}"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/balls_banner.jpg",
+          "image_width": 700,
+          "subtitle": "AT lowest price",
+          "title": "GET  all Sporty balls",
+          "text": "",
+          "button_label": "View Products",
+          "button_link": "shopify:\/\/collections\/football",
+          "button_style": "secondary",
+          "layout": "right",
+          "alt": false
+        }
+      },
+      "social": {
+        "type": "social",
+        "blocks": {
+          "f952847d-7bb9-48e9-9e1c-c0c9292464a4": {
+            "type": "post",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/homegymclassic_1024x1024_2x_90ced84a-1cb7-47c6-bf09-6c359b1f5ea6.jpg",
+              "link": "https:\/\/www.instagram.com\/p\/CSJSc4np9Gx\/",
+              "product": "a2-acme-english-willow-cricket-bat-cricket-kibi-sports",
+              "account": "sac",
+              "caption": "csac",
+              "likes": "102"
+            }
+          }
+        },
+        "block_order": [
+          "f952847d-7bb9-48e9-9e1c-c0c9292464a4"
+        ],
+        "settings": {
+          "enable_home": false,
+          "enable_product": false,
+          "enable_collection": false,
+          "title": "On social",
+          "description": "<p>Send us yours <a href=\"https:\/\/instagram.com\/youraccount\/\">@kibi_sports<\/a><\/p>"
+        }
+      },
+      "1628105105b340f27c": {
+        "type": "logo-list",
+        "blocks": {
+          "a9a12639-7620-4a4b-a0d3-2a9d48bd91a9": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image_4.png",
+              "link": "shopify:\/\/collections\/stag"
+            }
+          },
+          "1628105105b340f27c-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1603156673904.jpg",
+              "link": "shopify:\/\/collections\/life-speed"
+            }
+          },
+          "1628105105b340f27c-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cosco_india_ltd-500x500_170f27a7-6968-4740-80f6-7df65f24495b.jpg",
+              "link": "shopify:\/\/collections\/cosco"
+            }
+          },
+          "1628105105b340f27c-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/a2-cricket-10240655-f07f7217.png",
+              "link": "shopify:\/\/collections\/a2-sports"
+            }
+          },
+          "06147e08-be08-435d-a519-f961f71d72de": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/unnamed.png",
+              "link": ""
+            }
+          },
+          "2e5a9ad0-6aa9-45e7-900e-377425d0d7eb": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.58_PM.jpg",
+              "link": ""
+            }
+          },
+          "390d10bc-3510-4786-ab54-fab80def645d": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25_2.png",
+              "link": ""
+            }
+          },
+          "6f36f962-c320-4beb-85fe-2ea769452519": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26_1.png",
+              "link": ""
+            }
+          },
+          "e6595803-cf8d-452a-9672-637ac6234019": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25_1.png",
+              "link": ""
+            }
+          },
+          "75ee609d-79da-483f-ab6b-33d3275ce229": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.54_PM_1.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "a9a12639-7620-4a4b-a0d3-2a9d48bd91a9",
+          "1628105105b340f27c-1",
+          "1628105105b340f27c-0",
+          "1628105105b340f27c-3",
+          "06147e08-be08-435d-a519-f961f71d72de",
+          "2e5a9ad0-6aa9-45e7-900e-377425d0d7eb",
+          "390d10bc-3510-4786-ab54-fab80def645d",
+          "6f36f962-c320-4beb-85fe-2ea769452519",
+          "e6595803-cf8d-452a-9672-637ac6234019",
+          "75ee609d-79da-483f-ab6b-33d3275ce229"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "logo_opacity": 100,
+          "alt": false
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_image_enable": false,
+          "description_enable": false
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "settings": {
+          "filter_type": "groups",
+          "tags_combine": true,
+          "collection_sort_enable": true
+        }
+      },
+      "162815238940b4f047": {
+        "type": "testimonials",
+        "blocks": {
+          "162815238940b4f047-0": {
+            "type": "testimonial",
+            "settings": {
+              "testimonial": "<p><em>Excellent work by the guys at KIBI Sports ! Great service and attention to detail. Highly recommended!<\/em><\/p>",
+              "author": "Saurav Tomar, Lucknow"
+            }
+          },
+          "162815238940b4f047-1": {
+            "type": "testimonial",
+            "settings": {
+              "testimonial": "<p><em>I Purchased two Racquets from them. Got proper guidance and all necessary information. Satisfied with the service and product quality.<\/em><\/p>",
+              "author": "Abbas Ali, Hyderabad"
+            }
+          },
+          "42e0a182-d15a-41c0-b1d5-3e91c2d3758c": {
+            "type": "testimonial",
+            "settings": {
+              "testimonial": "<p><em>I ordered a whey protein in a unbelievable discount from KIBI Sports Store. Their service is incredible.<\/em><\/p>",
+              "author": "Gaurav Pandit, Kanpur"
+            }
+          }
+        },
+        "block_order": [
+          "162815238940b4f047-0",
+          "162815238940b4f047-1",
+          "42e0a182-d15a-41c0-b1d5-3e91c2d3758c"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "align_text": "center",
+          "round_images": false,
+          "alt": false
+        }
+      },
+      "162815310454f97824": {
+        "type": "advanced-content",
+        "blocks": {
+          "ba45fe36-1e2f-4d44-8664-087148f3e5b6": {
+            "type": "html",
+            "settings": {
+              "code": "<text align=\"center\">\n<h1>Contact US<\/h1><\/text>\n<p align=\"center\"> KIBI SPORTS PRIVATE LIMITED <br>\nSharda Launchpad, Sharda University, Knowledge Park 2, Greater Noida, UP - 201310<\/p>",
+              "width": "100%",
+              "alignment": "top-middle"
+            }
+          },
+          "73bf2835-7dc1-42c6-b813-e185ed4b8f52": {
+            "type": "html",
+            "settings": {
+              "code": "<text align=\"center\">\n<p>\nTel: <a href=\"tel:+919064313197\">+91 9064313197<\/a>\n<\/p><\/text>",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "162815310454f97824-1": {
+            "type": "html",
+            "settings": {
+              "code": "<text align=\"center\">\n<p>Mail: <a href=\"mailto:support@kibi.co.in\">support@kibi.co.in<\/a><\/p><\/text>",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "ba45fe36-1e2f-4d44-8664-087148f3e5b6",
+          "73bf2835-7dc1-42c6-b813-e185ed4b8f52",
+          "162815310454f97824-1"
+        ],
+        "custom_css": [
+          ".index-section--alt {margin: 0; padding: 40px 0;}"
+        ],
+        "settings": {
+          "full_width": false,
+          "space_around": false,
+          "alt": true
+        }
+      },
+      "162817905914c598f3": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "",
+          "description": "",
+          "home_featured_products": "nutrition",
+          "rows": 2,
+          "per_row_desktop": 4,
+          "per_row_mobile": "2",
+          "view_all": true,
+          "alt": false
+        }
+      },
+      "1628187679b19ef880": {
+        "type": "hero-animated",
+        "blocks": {
+          "1628187679b19ef880-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/young-arabian-muscular-basketball-player-action-motion-isolated-blackd_1_1.png",
+              "focal_point": "20% 10%"
+            }
+          }
+        },
+        "block_order": [
+          "1628187679b19ef880-0"
+        ],
+        "settings": {
+          "style": "fading",
+          "title": "Are you an athlete",
+          "title_size": 55,
+          "subheading": "Looking for brand sponsorship",
+          "link": "https:\/\/docs.google.com\/forms\/d\/1p7IQPhW-kK4X0QAHzCuQ9evhIuk8eP-78MNXhalRZyg\/viewform?edit_requested=true",
+          "link_text": "Apply here",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-center horizontal-left",
+          "desktop_size": -10,
+          "mobile_size": 20
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "blocks": {
+          "page-contact-template-0": {
+            "type": "contact-form",
+            "settings": {
+              "title": "Contact us",
+              "show_phone": false,
+              "narrow_column": true
+            }
+          },
+          "12ef979f-0961-466a-b3f0-755f5f647cd2": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": false,
+              "space_around": false,
+              "alt": true,
+              "code": "<text align=\"center\">\n<p><b> Office:<\/b><br>\n KIBI SPORTS PRIVATE LIMITED <br>\nShardha Launchpad, Shardha University, Knowledge Park 2, Greater Noida, UP - 201310<\/p>\n<p>\n<b>Tel:<\/b> <a href=\"tel:+917002552662\">+917002552662<\/a>\n<\/p>\n<p><b>Mail: <\/b><a href=\"mailto:support@kibi.co.in\">support@kibi.co.in<\/a><\/p><\/text>"
+            }
+          }
+        },
+        "block_order": [
+          "page-contact-template-0",
+          "12ef979f-0961-466a-b3f0-755f5f647cd2"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "0aa083fd-332e-44c9-8cac-39324746420e": {
+            "type": "image",
+            "settings": {
+              "title": "SERVICES",
+              "title_size": 88,
+              "subheading": "Your satisfaction is our goal",
+              "link": "",
+              "link_text": "",
+              "color_accent": "#a67017",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/customer-support-staff-ready-for-work.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/customer-support-staff-ready-for-work.jpg",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "0aa083fd-332e-44c9-8cac-39324746420e"
+        ],
+        "settings": {
+          "style": "minimal",
+          "desktop_size": -30,
+          "mobile_size": -20,
+          "autoplay": false,
+          "autoplay_speed": 7
+        }
+      },
+      "services": {
+        "type": "services",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Custom_process.png",
+          "image_width": 700,
+          "subtitle": "You create we deliver",
+          "title": "Custom Team Wear",
+          "text": "<p><\/p><p>You can customize whatever suits the best for you (choice of fabric, collar & sleeve type, design & colors) and we will serve it for you at affordable rates <\/p><p><strong>Free shipping!!<\/strong><\/p>",
+          "button_label": "Call now",
+          "button_link": "tel:+917002552662",
+          "button_style": "primary",
+          "layout": "right",
+          "alt": false
+        }
+      },
+      "servicesection1": {
+        "type": "servicesection1",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/workout-fitness-center.jpg",
+          "image_width": 500,
+          "subtitle": "Better infrastructure",
+          "title": "sporting scapes",
+          "text": "<p>Looking for home gym, open gym, flooring, sports equipment, performance center and other sports facility set up?<\/p><p>Drop a mail with your requirement and we will get back to you with amazing deals!<\/p>",
+          "button_label": "mail us",
+          "button_link": "mailto:support@kibi.co.in",
+          "button_style": "primary",
+          "layout": "left",
+          "alt": false
+        }
+      },
+      "servicesection2": {
+        "type": "servicesection2",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/hockey-night-in-somewhere-cold.jpg",
+          "image_width": 500,
+          "subtitle": "Dare to fly",
+          "title": "Looking for brand sponsorship?",
+          "text": "<p>Are you a passionate athlete??<\/p><p>You are just one click away and we will help you to connect with brands  and other sponsorship opportunities<\/p>",
+          "button_label": "Apply now",
+          "button_link": "https:\/\/docs.google.com\/forms\/d\/1p7IQPhW-kK4X0QAHzCuQ9evhIuk8eP-78MNXhalRZyg\/viewform?edit_requested=true",
+          "button_style": "primary",
+          "layout": "right",
+          "alt": false
+        }
+      },
+      "1631780139d2715a3a": {
+        "type": "logo-list",
+        "blocks": {
+          "1631780139d2715a3a-0": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.56_PM.jpg",
+              "link": ""
+            }
+          },
+          "1631780139d2715a3a-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/QYEQ9adJ_400x400_fb793b12-0b51-4684-9724-1b68de269ffc.jpg",
+              "link": ""
+            }
+          },
+          "1631780139d2715a3a-2": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.02_PM.jpg",
+              "link": ""
+            }
+          },
+          "1631780139d2715a3a-3": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.02_PM_1.jpg",
+              "link": ""
+            }
+          },
+          "8cc4c381-26b4-457a-b3ad-40af7993a16e": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.25.53_PM.jpg",
+              "link": ""
+            }
+          },
+          "45f7e7c4-a077-4b47-b468-76e751676166": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.00_PM_a2468c1d-29c5-4116-94bf-4b7653188d93.jpg",
+              "link": ""
+            }
+          },
+          "811289bf-51ed-40fc-a75d-ef74f2e1ad80": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2021-09-16_at_1.26.01_PM.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1631780139d2715a3a-0",
+          "1631780139d2715a3a-1",
+          "1631780139d2715a3a-2",
+          "1631780139d2715a3a-3",
+          "8cc4c381-26b4-457a-b3ad-40af7993a16e",
+          "45f7e7c4-a077-4b47-b468-76e751676166",
+          "811289bf-51ed-40fc-a75d-ef74f2e1ad80"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "logo_opacity": 76,
+          "alt": false
+        }
+      },
+      "1643562396261cc182": {
+        "type": "logo-list",
+        "blocks": {
+          "1643562396261cc182-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frame_9.png",
+              "link": ""
+            }
+          },
+          "1643562396261cc182-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frame_9-2.png",
+              "link": ""
+            }
+          },
+          "1643562396261cc182-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frame_9-1.png",
+              "link": ""
+            }
+          },
+          "1643562396261cc182-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frame_9_d05f9856-4911-4370-82a4-3988151a82bf.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1643562396261cc182-0",
+          "1643562396261cc182-1",
+          "1643562396261cc182-2",
+          "1643562396261cc182-3"
+        ],
+        "custom_css": [
+          ".index-section {margin: 40px 0;}"
+        ],
+        "settings": {
+          "title": "Recognized by",
+          "logo_opacity": 100,
+          "alt": false
+        }
+      },
+      "16435624415d1fd406": {
+        "type": "featured-content",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "text": "<p>Recognized by<\/p>",
+          "align_text": "center",
+          "narrow_column": false,
+          "enlarge_text": true,
+          "alt": false
+        }
+      },
+      "1644948422babe2dd5": {
+        "type": "hero-video",
+        "settings": {
+          "title": "Fitga Agility Trainer",
+          "title_size": 80,
+          "subheading": "",
+          "link_text": "Shop Now",
+          "link": "shopify:\/\/products\/fitga-agility-trainer-kibi-sports",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-center horizontal-center",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=lSXD3PXtQ6Y",
+          "section_height": "450px",
+          "mobile_height": "auto"
+        }
+      },
+      "1647366819b58a7eba": {
+        "type": "services",
+        "custom_css": [
+          ".index-section {padding: 20px;}"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Group_297.png",
+          "image_width": 700,
+          "subtitle": "",
+          "title": "Sports Apparels",
+          "text": "",
+          "button_label": "View Products",
+          "button_link": "shopify:\/\/collections\/clothing",
+          "button_style": "secondary",
+          "layout": "right",
+          "alt": true
+        }
+      },
+      "1647703716aa66b6b2": {
+        "type": "hero-animated",
+        "blocks": {
+          "1647703716aa66b6b2-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hokcey_banner.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "1647703716aa66b6b2-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Website_banner-protein-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "339b8ff6-8657-4eb7-a73f-9a01e15380ac": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Website_banner-skating-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "028445c8-9a1b-423b-b919-eb796316e239": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Website_banner-fitness-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "569d3162-50b9-4b61-855f-6121990b2acf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Website_banner-swim-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "7777efd8-1c0a-42b7-b2ad-4011f07b9349": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Website_banner-balls-1280x600.jpg",
+              "focal_point": "50% 90%"
+            }
+          }
+        },
+        "block_order": [
+          "1647703716aa66b6b2-0",
+          "1647703716aa66b6b2-1",
+          "339b8ff6-8657-4eb7-a73f-9a01e15380ac",
+          "028445c8-9a1b-423b-b919-eb796316e239",
+          "569d3162-50b9-4b61-855f-6121990b2acf",
+          "7777efd8-1c0a-42b7-b2ad-4011f07b9349"
+        ],
+        "settings": {
+          "style": "gif",
+          "title": "",
+          "title_size": 55,
+          "subheading": "",
+          "link": "shopify:\/\/collections",
+          "link_text": "View ALl",
+          "color_accent": "rgba(0,0,0,0)",
+          "text_align": "vertical-bottom horizontal-center",
+          "desktop_size": -20,
+          "mobile_size": 20
+        }
+      },
+      "c96c6295-7844-4e58-85a5-e4fdbc40b7e2": {
+        "type": "slideshow",
+        "blocks": {
+          "4d0969be-a5ad-4470-b884-062a029e8ec4": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "shopify:\/\/collections\/cricket",
+              "link_text": "CRIcket products",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/banner.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/bannere.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "d435a282-2d56-4632-b3e5-2b89a0f987d8": {
+            "type": "image",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "shopify:\/\/collections",
+              "link_text": "products",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/Website_banner-ball2-1280x600.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/Website_banner-ball2-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "3f6c3407-33db-41cd-84c3-99c8d9c43bdc": {
+            "type": "image",
+            "settings": {
+              "title": "",
+              "title_size": 69,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/Website_banner-travel-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "6ce08b30-74bb-481f-b600-a4e2355eab70": {
+            "type": "image",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/Website_banner-badminton-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "a5023328-518c-4de2-aebe-daeda463c35b": {
+            "type": "image",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/Website_banner-apparel-1280x600.jpg",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "4d0969be-a5ad-4470-b884-062a029e8ec4",
+          "d435a282-2d56-4632-b3e5-2b89a0f987d8",
+          "3f6c3407-33db-41cd-84c3-99c8d9c43bdc",
+          "6ce08b30-74bb-481f-b600-a4e2355eab70",
+          "a5023328-518c-4de2-aebe-daeda463c35b"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "style": "arrows",
+          "desktop_size": -10,
+          "mobile_size": 0,
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
+      },
+      "adbb7a9f-1625-49f3-8725-88b5ba0b6b32": {
+        "type": "logo-list",
+        "blocks": {
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/4_20230317_225758_0003.png",
+              "link": ""
+            }
+          },
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1_20230317_225758_0000.png",
+              "link": ""
+            }
+          },
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3_20230317_225758_0002.png",
+              "link": ""
+            }
+          },
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_20230317_225758_0001.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-0",
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-1",
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-2",
+          "adbb7a9f-1625-49f3-8725-88b5ba0b6b32-167913272628b64c43-3"
+        ],
+        "custom_css": [
+          ".index-section {margin: 0px;}",
+          ".logo-bar__item {margin: 0px 40px;}"
+        ],
+        "settings": {
+          "title": "",
+          "logo_opacity": 100,
+          "alt": false
+        }
+      },
+      "7b0777db-6064-4496-937d-676c60750d40": {
+        "type": "featured-collections",
+        "blocks": {
+          "9e7a34a6-1cc6-49b9-b5e4-0abfcdd86d9a": {
+            "type": "collection",
+            "settings": {
+              "collection": "men",
+              "focal_point": "center center"
+            }
+          },
+          "011c32f5-7c13-47ba-84bb-322e436e89a6": {
+            "type": "collection",
+            "settings": {
+              "collection": "women",
+              "focal_point": "center center"
+            }
+          },
+          "635148ee-5ede-449c-9bbd-e0c8146f4398": {
+            "type": "collection",
+            "settings": {
+              "collection": "nutrition",
+              "focal_point": "center center"
+            }
+          },
+          "d6c4661f-bd33-4231-9db9-fa9c97c1e619": {
+            "type": "collection",
+            "settings": {
+              "collection": "cycles",
+              "focal_point": "center center"
+            }
+          },
+          "54fb6062-1ab6-4c30-ba64-c88504155eb3": {
+            "type": "collection",
+            "settings": {
+              "collection": "cricket",
+              "focal_point": "center center"
+            }
+          },
+          "c532802c-3d89-42dc-8ca8-0d418b0ea14a": {
+            "type": "collection",
+            "settings": {
+              "collection": "badminton-1",
+              "focal_point": "center center"
+            }
+          },
+          "9b6cbc3c-707d-4d62-9f13-bcd28a279106": {
+            "type": "collection",
+            "settings": {
+              "collection": "tennis",
+              "focal_point": "center center"
+            }
+          },
+          "557c4cf7-5ea4-4a04-a440-1ec51f41ea49": {
+            "type": "collection",
+            "settings": {
+              "collection": "table-tennis",
+              "focal_point": "center center"
+            }
+          },
+          "94443502-b7eb-476d-9ce8-f47be1b0aaa7": {
+            "type": "collection",
+            "settings": {
+              "collection": "gym",
+              "focal_point": "center center"
+            }
+          },
+          "6675c62c-ad5d-4a13-9f5e-2f74f2e34a60": {
+            "type": "collection",
+            "settings": {
+              "collection": "sunglasses",
+              "focal_point": "center center"
+            }
+          },
+          "92c3bdb0-1e97-44ef-8fa9-c18dd3254baa": {
+            "type": "collection",
+            "settings": {
+              "collection": "backpack",
+              "focal_point": "center center"
+            }
+          },
+          "76a45ce7-b09b-4438-9968-dc699576146e": {
+            "type": "collection",
+            "settings": {
+              "collection": "skating",
+              "focal_point": "center center"
+            }
+          },
+          "9970ee4b-f400-4b43-b878-76f24e57de3d": {
+            "type": "collection",
+            "settings": {
+              "collection": "gym-accessories",
+              "focal_point": "center center"
+            }
+          },
+          "a84f5192-d8e2-4bea-96d3-551a651048a7": {
+            "type": "collection",
+            "settings": {
+              "collection": "adventure-sports",
+              "focal_point": "center center"
+            }
+          },
+          "e5bbb800-7b38-4d5f-b679-6166bf91edf2": {
+            "type": "collection",
+            "settings": {
+              "collection": "swimming",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "9e7a34a6-1cc6-49b9-b5e4-0abfcdd86d9a",
+          "011c32f5-7c13-47ba-84bb-322e436e89a6",
+          "635148ee-5ede-449c-9bbd-e0c8146f4398",
+          "d6c4661f-bd33-4231-9db9-fa9c97c1e619",
+          "54fb6062-1ab6-4c30-ba64-c88504155eb3",
+          "c532802c-3d89-42dc-8ca8-0d418b0ea14a",
+          "9b6cbc3c-707d-4d62-9f13-bcd28a279106",
+          "557c4cf7-5ea4-4a04-a440-1ec51f41ea49",
+          "94443502-b7eb-476d-9ce8-f47be1b0aaa7",
+          "6675c62c-ad5d-4a13-9f5e-2f74f2e34a60",
+          "92c3bdb0-1e97-44ef-8fa9-c18dd3254baa",
+          "76a45ce7-b09b-4438-9968-dc699576146e",
+          "9970ee4b-f400-4b43-b878-76f24e57de3d",
+          "a84f5192-d8e2-4bea-96d3-551a651048a7",
+          "e5bbb800-7b38-4d5f-b679-6166bf91edf2"
+        ],
+        "custom_css": [
+          ".index-section--alt {margin: 0; padding: 0px 40;}"
+        ],
+        "settings": {
+          "title": "Collections",
+          "alt": true
+        }
+      },
+      "7d137988-6da2-4489-8435-5ff16b9d2280": {
+        "type": "advanced-content",
+        "blocks": {
+          "7d137988-6da2-4489-8435-5ff16b9d2280-167958150315f621c3-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Adidas-logo.webp",
+              "link": "shopify:\/\/collections\/adidas",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "563db8eb-ea92-4908-b13e-10a32fcd8bd2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/nike.jpg",
+              "link": "shopify:\/\/collections\/nike",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "d88a77b1-45c6-4cc1-ad51-7e9de069197e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/niivia.jpg",
+              "link": "shopify:\/\/collections\/nivia",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "7d137988-6da2-4489-8435-5ff16b9d2280-167958150315f621c3-0",
+          "563db8eb-ea92-4908-b13e-10a32fcd8bd2",
+          "d88a77b1-45c6-4cc1-ad51-7e9de069197e"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": false,
+          "space_around": true,
+          "alt": false
+        }
+      },
+      "03ba7267-6fb8-4a7f-8618-e6873c3a6a7f": {
+        "type": "advanced-content",
+        "blocks": {
+          "2abb472b-dd29-47df-8816-833976306d9f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cos_1d9ef1c5-2993-4e5f-b3b3-891da60c554c.jpg",
+              "link": "shopify:\/\/collections\/cosco",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "f26edfac-6bf1-40d9-a22d-0d8ab6f8476a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/yonex.jpg",
+              "link": "shopify:\/\/collections\/badminton",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "c6d305e4-7dde-4ead-81ee-81a8e8afdad4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/decathlonn_50cc77ff-152e-4a12-98eb-4daeaed9fffa.jpg",
+              "link": "shopify:\/\/collections\/domyos",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "2abb472b-dd29-47df-8816-833976306d9f",
+          "f26edfac-6bf1-40d9-a22d-0d8ab6f8476a",
+          "c6d305e4-7dde-4ead-81ee-81a8e8afdad4"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": false,
+          "space_around": true,
+          "alt": false
+        }
+      },
+      "1ed423e1-e8ba-4a32-88fd-86f1848e721e": {
+        "type": "advanced-content",
+        "blocks": {
+          "9f82743b-97f2-457e-abdd-16d4103ccd36": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shiv_naresh.jpg",
+              "link": "shopify:\/\/collections\/shiv-naresh",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "f3dbff1d-ec0d-46e2-bc99-cfd0581ce732": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/alfa.jpg",
+              "link": "shopify:\/\/collections\/hockey",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "80fc8723-3e26-453b-8337-aa285221c5a5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sg.jpg",
+              "link": "shopify:\/\/collections\/sg-cricket",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "9f82743b-97f2-457e-abdd-16d4103ccd36",
+          "f3dbff1d-ec0d-46e2-bc99-cfd0581ce732",
+          "80fc8723-3e26-453b-8337-aa285221c5a5"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": false,
+          "space_around": true,
+          "alt": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1559321610782",
+      "c96c6295-7844-4e58-85a5-e4fdbc40b7e2",
+      "1559586187853",
+      "adbb7a9f-1625-49f3-8725-88b5ba0b6b32",
+      "1559585995085",
+      "1543003878234",
+      "7b0777db-6064-4496-937d-676c60750d40",
+      "1647703716aa66b6b2",
+      "1559687247066",
+      "1559096311192",
+      "1559098181700",
+      "1644948422babe2dd5",
+      "1647366819b58a7eba",
+      "162817905914c598f3",
+      "1628187679b19ef880",
+      "162815238940b4f047",
+      "162815310454f97824",
+      "1628105105b340f27c",
+      "1631780139d2715a3a",
+      "16435624415d1fd406",
+      "1643562396261cc182",
+      "7d137988-6da2-4489-8435-5ff16b9d2280",
+      "03ba7267-6fb8-4a7f-8618-e6873c3a6a7f",
+      "1ed423e1-e8ba-4a32-88fd-86f1848e721e"
+    ],
+    "blocks": {
+      "3753596010683798665": {
+        "type": "shopify:\/\/apps\/pushdaddy-whatsapp-live-chat\/blocks\/app-embed\/e3f2054d-bf7b-4e63-8db3-00712592382c",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Core": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "round",
+      "button_type_style": "normal",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#f9f9f9",
+      "color_alt_text": "#000000",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#f75d44",
+      "color_cart_dot_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_overlay_text_shadow": 20,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#fff",
+      "color_sale_price": "#000000",
+      "color_sale_tag": "#990000",
+      "color_small_image_bg": "#ffffff",
+      "desktop_loader_width": 100,
+      "mobile_loader_width": 100,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "roboto_condensed_n4",
+      "type_base_line_height": 1.6,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 46,
+      "type_header_capitalize": true,
+      "type_header_font_family": "roboto_condensed_i7",
+      "type_header_line_height": 1,
+      "type_header_spacing": "-25",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": false,
+            "header_search_enable": true,
+            "show_announcement": false,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "menu": "footer",
+            "newsletter_title": "Join the club",
+            "newsletter_richtext": "",
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1559681273277": {
+              "type": "image-hero",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-center horizontal-center"
+              }
+            },
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 450,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "large"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 60,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            }
+          },
+          "block_order": [
+            "1559681273277",
+            "1558643031646",
+            "1558643392013",
+            "1558643431127",
+            "1558643225272"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "1543003878234": {
+          "type": "featured-collections",
+          "blocks": {
+            "1543003878234-0": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-1": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-2": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-3": {
+              "type": "collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1543003878234-0",
+            "1543003878234-1",
+            "1543003878234-2",
+            "1543003878234-3"
+          ],
+          "settings": {
+            "alt": true,
+            "title": "Shop all"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection",
+          "settings": {
+            "per_row_desktop": 4,
+            "per_row_mobile": "2",
+            "description": "For more traditional layouts"
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559096311192": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559096311192-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559097202495": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559096311192-0",
+            "1559097202495"
+          ],
+          "settings": {
+            "style": "gif",
+            "title": "Make an impression",
+            "title_size": 80,
+            "text_align": "vertical-center horizontal-center"
+          }
+        },
+        "1559098181700": {
+          "type": "slideshow",
+          "blocks": {
+            "1559098181700-0": {
+              "type": "image",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-bottom horizontal-left"
+              }
+            }
+          },
+          "block_order": [
+            "1559098181700-0"
+          ],
+          "settings": {
+          }
+        },
+        "1559321610782": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "1559585995085": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1559586187853": {
+          "type": "marquee",
+          "settings": {
+            "text": "Follow us for monthly apparel giveaways",
+            "text_size": 36
+          }
+        },
+        "1559687247066": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Our story",
+            "button_style": "secondary",
+            "layout": "right"
+          }
+        },
+        "1559687361077": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Contact us",
+            "button_style": "secondary",
+            "layout": "left"
+          }
+        },
+        "1559687710135": {
+          "type": "map",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "1559321610782",
+        "1559585995085",
+        "1558626745581",
+        "1559096311192",
+        "1556162914490",
+        "1559098181700",
+        "1556162802939",
+        "1543003878234",
+        "1559687247066",
+        "1559687361077",
+        "1559687710135",
+        "1559586187853"
+      ]
+    },
+    "Luxe": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#ffffff",
+      "color_alt_text": "#333029",
+      "color_announcement": "#c67066",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#fdfbfa",
+      "color_body_text": "#333029",
+      "color_button": "#c67066",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#c67066",
+      "color_drawer_background": "#fdf9f5",
+      "color_drawer_text": "#333029",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#eee5e0",
+      "color_newsletter": "#c67066",
+      "color_newsletter_text": "#ffffff",
+      "color_sale_price": "#333029",
+      "color_sale_tag": "#c67066",
+      "color_small_image_bg": "#fdfbfa",
+      "desktop_loader_width": 140,
+      "mobile_loader_width": 130,
+      "product_grid_image_size": "natural",
+      "product_hover_details": true,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "futura_n4",
+      "type_base_line_height": 1.7,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 50,
+      "type_header_capitalize": false,
+      "type_header_font_family": "itc_novarese_n5",
+      "type_header_line_height": 1.1,
+      "type_header_spacing": "0",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": true,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": false
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 47,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643225272",
+            "1558643431127",
+            "1558643392013"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "title_enable": true,
+            "display_type": "all"
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "btn",
+            "layout": "right"
+          }
+        },
+        "1555439851826": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "right"
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1558625522348": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "left"
+          }
+        },
+        "1558626497917": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-center horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559155590855": {
+          "type": "text-columns",
+          "blocks": {
+            "1559155590855-0": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason one"
+              }
+            },
+            "1559155590855-1": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason two"
+              }
+            }
+          },
+          "block_order": [
+            "1559155590855-0",
+            "1559155590855-1"
+          ],
+          "settings": {
+            "title": "Why choose us?",
+            "align_text": "center",
+            "alt": true
+          }
+        },
+        "password-header": {
+          "type": "password-header",
+          "settings": {
+          }
+        },
+        "password-content": {
+          "type": "password-content",
+          "settings": {
+            "newsletter_enable": true,
+            "show_share_buttons": false,
+            "show_image": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "small"
+          }
+        }
+      },
+      "content_for_index": [
+        "1558626497917",
+        "1556162914490",
+        "1558626745581",
+        "1555097143929",
+        "1555439851826",
+        "1559155590855",
+        "1556162802939",
+        "1558625522348"
+      ]
+    },
+    "Hype": {
+      "animate_images": false,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "color_alt_bg": "#000000",
+      "color_alt_text": "#ffffff",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_cart_dot": "#FF2300",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#ffffff",
+      "color_small_image_bg": "#f2f2f2",
+      "desktop_loader_width": 190,
+      "mobile_loader_width": 180,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": true,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "basic_commercial_n7",
+      "type_base_line_height": 1.3,
+      "type_base_size": 20,
+      "type_base_spacing": "25",
+      "type_header_base_size": 48,
+      "type_header_capitalize": true,
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_line_height": 0.9,
+      "type_header_spacing": "25",
+      "type_product_capitalize": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643431127"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1559240039950": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559240039950-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559240039950-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559309176406": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559240039950-0",
+            "1559240039950-1",
+            "1559309176406"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 72,
+            "text_align": "vertical-bottom horizontal-right"
+          }
+        },
+        "1559241610369": {
+          "type": "marquee",
+          "settings": {
+            "text": "☞ FREE SHIPPING AND RETURNS",
+            "text_size": 70,
+            "text_spacing": true,
+            "color_scheme": "text",
+            "direction": "left"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "large"
+          }
+        },
+        "1559249041610": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-left",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        }
+      },
+      "content_for_index": [
+        "1559240039950",
+        "1555097143929",
+        "1559241610369",
+        "1556162914490",
+        "1559249041610",
+        "1556162802939"
+      ]
+    }
+  }
+}
