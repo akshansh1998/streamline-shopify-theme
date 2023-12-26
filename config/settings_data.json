@@ -956,7 +956,7 @@
           "73bf2835-7dc1-42c6-b813-e185ed4b8f52": {
             "type": "html",
             "settings": {
-              "code": "<text align=\"center\">\n<p>\nTel: <a href=\"tel:+919064313197\">+91 9064313197<\/a>\n<\/p><\/text>",
+              "code": "<text align=\"center\">\n<p>\nTel: <a href=\"tel:+91%2090530%2017220\">+91 90530 17220<\/a>\n<\/p><\/text>",
               "width": "50%",
               "alignment": "center"
             }
