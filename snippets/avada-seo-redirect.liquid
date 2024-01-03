@@ -114,6 +114,8 @@ function avadaMakeRequest(url, method = 'GET', data = null) {
     }
   });
 }
-avadaMakeRequest('https://seo.apps.avada.io/proxy/save404', 'POST', {domain: 'kibi-sports.myshopify.com', url: window.location.pathname, urlTo:'/'});
+avadaMakeRequest('https://seo.apps.avada.io/proxy/save404', 'POST', {domain: 'kibi-sports.myshopify.com', url: window.location.pathname, urlTo:''});
+docReady(function() {document.querySelector('body').style.opacity = 0;});
+setTimeout(function() {window.location.href = '{{ shop.url }}/'}, 500);
 </script>
 {%- endif -%}
