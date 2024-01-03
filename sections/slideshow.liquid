@@ -120,7 +120,7 @@
                 {%- if block.settings.image != blank -%}
                   {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
 
-                  <img class="hero__image hero__image--{{ block.id }} lazyload{% if block.settings.image_mobile != blank %} small--hide{% endif %}"
+                  <img loading="lazy" class="hero__image hero__image--{{ block.id }} lazyload{% if block.settings.image_mobile != blank %} small--hide{% endif %}"
                     src=""
                     data-src="{{ img_url }}"
                     data-aspectratio="{{ block.settings.image.aspect_ratio }}"
@@ -128,14 +128,14 @@
                     data-parent-fit="cover"
                     alt="{{ block.settings.image.alt | escape }}">
                   <noscript>
-                    <img class="hero__image hero__image--{{ block.id }}{% if block.settings.image_mobile != blank %} small--hide{% endif %}"
+                    <img loading="lazy" class="hero__image hero__image--{{ block.id }}{% if block.settings.image_mobile != blank %} small--hide{% endif %}"
                       src="{{ block.settings.image | img_url: '1400x' }}"
                       alt="{{ block.settings.image.alt | escape }}">
                   </noscript>
 
                   {%- if block.settings.image_mobile != blank -%}
                     {%- assign img_mobile_url = block.settings.image_mobile | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                    <img class="hero__image hero__image--{{ block.id }} lazyload medium-up--hide"
+                    <img loading="lazy" class="hero__image hero__image--{{ block.id }} lazyload medium-up--hide"
                       src=""
                       data-src="{{ img_mobile_url }}"
                       data-aspectratio="{{ block.settings.image_mobile.aspect_ratio }}"
@@ -143,7 +143,7 @@
                       data-parent-fit="cover"
                       alt="{{ block.settings.image_mobile.alt | escape }}">
                     <noscript>
-                      <img class="hero__image hero__image--{{ block.id }} medium-up--hide"
+                      <img loading="lazy" class="hero__image hero__image--{{ block.id }} medium-up--hide"
                         src="{{ block.settings.image_mobile | img_url: '1400x' }}"
                         alt="{{ block.settings.image_mobile.alt | escape }}">
                     </noscript>

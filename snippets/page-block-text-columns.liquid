@@ -46,7 +46,7 @@
             <div style="max-width: {{ block.settings.image_width_1 }}px;{% if block.settings.align_text == 'center' %} margin: 0 auto;{% endif %}">
               <div class="image-wrap image-wrap--transparent text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image_1.aspect_ratio }}%;">
                 {%- assign img_url = block.settings.image_1 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                <img class="lazyload"
+                <img loading="lazy" class="lazyload"
                     data-src="{{ img_url }}"
                     data-widths="[180, 360, 540, 750, 900, 1080]"
                     data-aspectratio="{{ block.settings.image_1.aspect_ratio }}"
@@ -85,7 +85,7 @@
             <div style="max-width: {{ block.settings.image_width_2 }}px;{% if block.settings.align_text == 'center' %} margin: 0 auto;{% endif %}">
               <div class="image-wrap image-wrap--transparent text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image_2.aspect_ratio }}%;">
                 {%- assign img_url = block.settings.image_2 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                <img class="lazyload"
+                <img loading="lazy" class="lazyload"
                     data-src="{{ img_url }}"
                     data-widths="[180, 360, 540, 750, 900, 1080]"
                     data-aspectratio="{{ block.settings.image_2.aspect_ratio }}"
@@ -124,7 +124,7 @@
             <div style="max-width: {{ block.settings.image_width_3 }}px;{% if block.settings.align_text == 'center' %} margin: 0 auto;{% endif %}">
               <div class="image-wrap image-wrap--transparent text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image_3.aspect_ratio }}%;">
                 {%- assign img_url = block.settings.image_3 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                <img class="lazyload"
+                <img loading="lazy" class="lazyload"
                     data-src="{{ img_url }}"
                     data-widths="[180, 360, 540, 750, 900, 1080]"
                     data-aspectratio="{{ block.settings.image_3.aspect_ratio }}"
