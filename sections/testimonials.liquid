@@ -29,7 +29,7 @@
                   <div
                     class="image-wrap text-spacing testimonail-image{% if section.settings.round_images %} testimonail-image--round{% endif %}">
                     {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                    <img class="lazyload"
+                    <img loading="lazy" class="lazyload"
                         data-src="{{ img_url }}"
                         data-widths="[180, 360, 540, 750, 900, 1080]"
                         data-aspectratio="{{ block.settings.image.aspect_ratio }}"

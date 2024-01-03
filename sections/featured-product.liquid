@@ -242,14 +242,14 @@
               <div class="aos-animate trust-image" style="max-width: {{ settings.trust_image.width }}px;">
                 <div class="image-wrap " style="height: 0; padding-bottom: {{ 100 | divided_by: settings.trust_image.aspect_ratio }}%;">
                   {%- assign img_url = settings.trust_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-                  <img class="lazyload"
+                  <img loading="lazy" class="lazyload"
                       data-src="{{ img_url }}"
                       data-widths="[360, 540]"
                       data-aspectratio="{{ settings.trust_image.aspect_ratio }}"
                       data-sizes="auto"
                       alt="{{ settings.trust_image.alt }}">
                   <noscript>
-                    <img class="lazyloaded" src="{{ settings.trust_image | img_url: '540x' }}" alt="{{ settings.trust_image.alt }}">
+                    <img loading="lazy" class="lazyloaded" src="{{ settings.trust_image | img_url: '540x' }}" alt="{{ settings.trust_image.alt }}">
                   </noscript>
                 </div>
               </div>

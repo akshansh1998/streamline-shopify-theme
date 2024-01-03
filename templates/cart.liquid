@@ -72,7 +72,7 @@
                           {% endif %}>
                         </a>
                         <noscript>
-                          <img src="{{ item.image | img_url: '80x80' }}" alt="{{ item.title }}">
+                          <img loading="lazy" src="{{ item.image | img_url: '80x80' }}" alt="{{ item.title }}">
                         </noscript>
                       </div>
 
