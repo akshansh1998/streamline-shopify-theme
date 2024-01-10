@@ -99,7 +99,7 @@
           "main_menu_link_list": "main-menu",
           "show_announcement": true,
           "show_announcement_home_only": false,
-          "announcement_text": "FREE SHIPPING ON ORDERS ABOVE Rs. 500",
+          "announcement_text": "FREE SHIPPING ON ALL PRODUCTS",
           "announcement_link": "shopify:\/\/collections"
         }
       },
@@ -1805,12 +1805,6 @@
       "4320129847398743329": {
         "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-critical-css\/15507c6e-1aa3-45d3-b698-7e175e033440",
         "disabled": true,
-        "settings": {
-        }
-      },
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
         "settings": {
         }
       }
