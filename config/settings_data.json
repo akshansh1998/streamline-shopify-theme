@@ -732,7 +732,7 @@
         "settings": {
           "title": "Featured collection",
           "description": "",
-          "home_featured_products": "alfa",
+          "home_featured_products": "all-products",
           "per_row": "small",
           "alt": false
         }
