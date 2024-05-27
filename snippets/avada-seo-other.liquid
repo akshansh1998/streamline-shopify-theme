@@ -37,14 +37,14 @@
 
 {{ tw_social_image }}
 <script>
-  const avadaLightJsExclude = ['cdn.nfcube.com', 'assets/ecom.js'];
+  const avadaLightJsExclude = ['cdn.nfcube.com', 'assets/ecom.js', 'variant-title-king', 'linked_options_variants'];
   const avadaLightJsInclude = ['https://www.googletagmanager.com/', 'https://connect.facebook.net/', 'https://business-api.tiktok.com/', 'https://static.klaviyo.com/'];
   window.AVADA_SPEED_BLACKLIST = avadaLightJsInclude.map(item => new RegExp(item, 'i'));
   window.AVADA_SPEED_WHITELIST = avadaLightJsExclude.map(item => new RegExp(item, 'i'));
 </script>
 
 <script>
-  const isSpeedUpEnable = !1716795070710 || Date.now() < 1716795070710;
+  const isSpeedUpEnable = !1716967862396 || Date.now() < 1716967862396;
   if (isSpeedUpEnable) {
     const avadaSpeedUp=0.5;
     if(isSpeedUpEnable) {
@@ -55,7 +55,7 @@ new LightJsLoader(["keydown","mousemove","touchend","touchmove","touchstart","wh
   }
 </script>
 
-{%- assign lightJsReplace = "if ((!1716795070710 || Date.now() < 1716795070710) && avadaLightJsExclude.indexOf(urls[i]) === -1) s.type = 'lightJs'; else s.type = 'text/javascript'" -%}
+{%- assign lightJsReplace = "if ((!1716967862396 || Date.now() < 1716967862396) && avadaLightJsExclude.indexOf(urls[i]) === -1) s.type = 'lightJs'; else s.type = 'text/javascript'" -%}
 {%- assign lightJsContent = content_for_header | split: 'asyncLoad()' -%}
 {%- if lightJsContent.size > 1 -%}
   {%- assign lightJsParts = lightJsContent[1] | split: 'asyncLoad' -%}
