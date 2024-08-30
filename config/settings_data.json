@@ -995,6 +995,7 @@
       },
       "162817905914c598f3": {
         "type": "featured-collection",
+        "disabled": true,
         "settings": {
           "title": "",
           "description": "",
