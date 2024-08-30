@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -1524,6 +1533,7 @@
           },
           "635148ee-5ede-449c-9bbd-e0c8146f4398": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "nutrition",
               "focal_point": "center center"
@@ -1601,6 +1611,7 @@
           },
           "a84f5192-d8e2-4bea-96d3-551a651048a7": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "adventure-sports",
               "focal_point": "center center"
@@ -1806,20 +1817,6 @@
         "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-critical-css\/15507c6e-1aa3-45d3-b698-7e175e033440",
         "disabled": true,
         "settings": {
-        }
-      },
-      "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": false,
-        "settings": {
-          "button_color": "#000000",
-          "secondary_color": "#FFFFFF",
-          "ternary_color": "#6A6A6A",
-          "button_icon": "chat_bubble",
-          "button_text": "chat_with_us",
-          "button_horizontal_position": "bottom_left",
-          "button_vertical_position": "lowest",
-          "greeting_message": ""
         }
       }
     }
