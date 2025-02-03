@@ -36,7 +36,7 @@
 {%- endunless -%}
 
 {{ tw_social_image }}
-<script>window.FPConfig = {};window.FPConfig.ignoreKeywords=["/cart","/account"]</script><link rel="canonical" href="{{ canonical_url }}"><script>
+<script>
   const avadaLightJsExclude = ['cdn.nfcube.com', 'assets/ecom.js', 'variant-title-king', 'linked_options_variants', 'smile-loader.js', 'smart-product-filter-search', 'rivo-loyalty-referrals', 'avada-cookie-consent', 'consentmo-gdpr', 'quinn'];
   const avadaLightJsInclude = ['https://www.googletagmanager.com/', 'https://connect.facebook.net/', 'https://business-api.tiktok.com/', 'https://static.klaviyo.com/'];
   window.AVADA_SPEED_BLACKLIST = avadaLightJsInclude.map(item => new RegExp(item, 'i'));
@@ -44,7 +44,7 @@
 </script>
 
 <script>
-  const isSpeedUpEnable = !1738571482978 || Date.now() < 1738571482978;
+  const isSpeedUpEnable = !1738744276324 || Date.now() < 1738744276324;
   if (isSpeedUpEnable) {
     const avadaSpeedUp=0.5;
     if(isSpeedUpEnable) {
@@ -55,7 +55,7 @@ new LightJsLoader(["keydown","mousemove","touchend","touchmove","touchstart","wh
   }
 </script>
 
-{%- assign lightJsReplace = "if ((!1738571482978 || Date.now() < 1738571482978) &&
+{%- assign lightJsReplace = "if ((!1738744276324 || Date.now() < 1738744276324) &&
       (!window.AVADA_SPEED_BLACKLIST || window.AVADA_SPEED_BLACKLIST.some(pattern => pattern.test(s))) &&
       (!window.AVADA_SPEED_WHITELIST || window.AVADA_SPEED_WHITELIST.every(pattern => !pattern.test(s)))) s.type = 'lightJs'; else s.type = 'text/javascript'" -%}
 {%- assign lightJsContent = content_for_header | split: 'asyncLoad()' -%}
