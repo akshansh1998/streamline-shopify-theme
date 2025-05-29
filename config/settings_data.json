@@ -1807,9 +1807,9 @@
         "disabled": false,
         "settings": {}
       },
-      "4320129847398743329": {
-        "type": "shopify://apps/avada-seo-suite/blocks/avada-critical-css/15507c6e-1aa3-45d3-b698-7e175e033440",
-        "disabled": true,
+      "15623156175785154009": {
+        "type": "shopify://apps/qikify-smart-menu-mega-menu/blocks/app-embed/19d2f1cd-1836-4a32-8937-03df3c601dc8",
+        "disabled": false,
         "settings": {}
       }
     }
